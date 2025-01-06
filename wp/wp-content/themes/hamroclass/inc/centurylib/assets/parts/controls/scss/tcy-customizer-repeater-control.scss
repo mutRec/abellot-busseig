@@ -1,0 +1,40 @@
+.repeater-fields{
+    line-height: 16px;
+    padding: 10px 15px 15px;
+    background: #fff none repeat scroll 0 0;
+    border: 1px solid #e5e5e5;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.04);
+}
+.repeater-fields .tcy-icon-toggle,
+.repeater-fields .tcy-icon-toggle span{
+    background: transparent;
+}
+.customize-control-title.checkbox {
+    display: inline;
+    font-size: 13px;
+}
+.customize-message{
+    h2{
+        margin: 0;
+        padding: 0;
+    }
+}
+
+ul{
+    .repeater-field-remove{
+        color:#f00;
+    }
+    .repeater-footer{
+        opacity: 1;
+        margin: 10px 0 0;
+        padding: 5px 0 15px;
+        border-top: 1px solid #dedede;
+    }
+    .tcy-icon-toggle{
+        cursor:pointer;
+        line-height:45px;
+        .dashicons{
+            line-height:45px;
+        }
+    }
+}

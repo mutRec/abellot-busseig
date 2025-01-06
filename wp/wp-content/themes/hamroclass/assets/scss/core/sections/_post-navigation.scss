@@ -1,0 +1,58 @@
+/*
+ * @package themecentury
+ * @subpackage hamroclass
+ * @since 1.0.0
+ */
+.nav-links {
+	.meta-nav {
+		display: none;
+	}
+	.nav-previous {
+		width: 50%;
+		float: left;
+		float: left;
+		width: 25%;
+		a {
+			&:before {
+				content: "\f0d9";
+				font-family: $font_awesome;
+				font-style: normal;
+				margin-right: 5px;
+			}
+			display: block;
+			overflow: hidden;
+			text-overflow: ellipsis;
+			white-space: nowrap;
+		}
+	}
+	.nav-next {
+		width: 50%;
+		float: left;
+		text-align: right;
+		float: right;
+		float: left;
+		width: 25%;
+		float: right;
+		a {
+			&:after {
+				content: "\f0da";
+				font-family: $font_awesome;
+				font-style: normal;
+				margin-left: 5px;
+			}
+			display: block;
+			overflow: hidden;
+			white-space: nowrap;
+			text-overflow: ellipsis;
+		}
+	}
+}
+nav.navigation{
+	clear:both;
+    margin: 0 0 20px;
+    &:after{
+    	content:"";
+    	clear:both;
+    	display:block;
+    }
+}

@@ -1,0 +1,134 @@
+/*
+ * @package themecentury
+ * @subpackage hamroclass
+ * @since 1.0.0
+ */
+.hamroclass_default_tabbed_widget {
+	.hmc-post-thumb {
+		float: left;
+		width: 30%;
+	}
+	.hmc-post-content {
+		width: 70%;
+		float: right;
+		padding:0 0 0 15px;
+	}
+	.hmc-single-post {
+		border-bottom: 1px solid #e1e1e1;
+		margin-bottom: 12px;
+		padding-bottom: 12px;
+		&:last-child {
+			border-bottom: none;
+			margin-bottom: 0;
+			padding-bottom: 0;
+		}
+	}
+	.hmc-comments-content{
+		ul {
+			li{
+				border-bottom: 1px solid #e1e1e1;
+				margin-bottom: 12px;
+				padding-bottom: 12px;
+				&:last-child {
+					border-bottom: none;
+					margin-bottom: 0;
+					padding-bottom: 0;
+				}
+			}
+			margin: 0;
+			list-style: none;
+			.hmc-comment-avatar {
+				float: left;
+				width: 30%;
+				img {
+					width: 100%;
+				}
+			}
+			.hmc-comment-desc-wrap {
+				float: right;
+				width: 70%;
+				padding: 0 0 0 15px;
+			}
+		}
+	}
+	.hmc-post-meta {
+		span {
+			font-size: 12px;
+			margin-right: 10px;
+			a {
+				font-size: 12px;
+			}
+		}
+	}
+	ul.widget-tabs {
+		margin: 0;
+		list-style: none;
+		li {
+			background-color: $primary_color;
+			display: inline-block;
+			margin-right: -4px;
+			text-align: center;
+			width: 50%;
+			position: relative;
+			a {
+				color: $white_color;
+				font-weight: 600;
+				text-transform: uppercase;
+				display: block;
+				padding: 5px 0;
+			}
+			&:hover {
+				background-color: $active_color;
+				transition: all 0.5s ease;
+				&:after {
+					background: none;
+					border-left: 9px solid transparent;
+					border-right: 9px solid transparent;
+					border-top: 9px solid $active_color;
+					bottom: -20px;
+					content: "";
+					display: block;
+					height: 21px;
+					left: 49%;
+					margin: 0 auto;
+					position: absolute;
+					width: 13px;
+					z-index: 9;
+				}
+			}
+
+		}
+		li.active-item{
+			background-color: $active_color;
+			transition: all 0.5s ease;
+			&:after {
+				background: none;
+				border-left: 9px solid transparent;
+				border-right: 9px solid transparent;
+				border-top: 9px solid $active_color;
+				bottom: -20px;
+				content: "";
+				display: block;
+				height: 21px;
+				left: 49%;
+				margin: 0 auto;
+				position: absolute;
+				width: 13px;
+				z-index: 9;
+			}
+
+		}
+	}
+	.hmc-tabbed-section{
+		margin-top: 20px;
+		border-top: none;
+		margin-top: 0;
+		padding: 15px;
+		display:none;
+		border: 1px solid #e1e1e1;
+		background-color:#fff;
+		&.active-content{
+			display:block;
+		}
+	}
+}

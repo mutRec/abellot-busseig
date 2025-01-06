@@ -1,0 +1,3424 @@
+# Copyright (C) 2021
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: themecentury@gmail.com\n"
+"POT-Creation-Date: 2021-01-14 02:08:47+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2021-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Theme Century <themecentury@gmail.com>\n"
+"Language-Team: Theme Century <themecentury@gmail.com>\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: inc/centurylib/core/functions.php:131
+msgid "1"
+msgstr ""
+
+#: inc/centurylib/core/functions.php:132
+msgid "2"
+msgstr ""
+
+#: inc/centurylib/core/functions.php:133
+msgid "3"
+msgstr ""
+
+#: inc/centurylib/core/functions.php:134
+msgid "4"
+msgstr ""
+
+#: inc/library/class-hamroclass-admin.php:360
+#: inc/library/class-hamroclass-admin.php:361
+msgid "6"
+msgstr ""
+
+#: inc/library/class-hamroclass-admin.php:355
+msgid "7"
+msgstr ""
+
+#: inc/library/class-hamroclass-admin.php:336
+msgid "15"
+msgstr ""
+
+#: inc/library/class-hamroclass-admin.php:356
+msgid "16"
+msgstr ""
+
+#: 404.php:32
+msgid "404"
+msgstr ""
+
+#: 404.php:23
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:24
+msgid "It looks like nothing was found at this location."
+msgstr ""
+
+#: 404.php:32
+msgid "error"
+msgstr ""
+
+#: comments.php:39
+#. translators: 1: title.
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: comments.php:55 comments.php:73
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:57 comments.php:75
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:58 comments.php:76
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:87
+msgid "Comments are closed."
+msgstr ""
+
+#: header.php:26
+msgid "Skip to content"
+msgstr ""
+
+#: inc/centurylib/core/functions.php:46
+msgid "No Filters"
+msgstr ""
+
+#: inc/centurylib/core/functions.php:66
+msgid "No Image"
+msgstr ""
+
+#: inc/centurylib/core/functions.php:71
+msgid "full (original)"
+msgstr ""
+
+#: inc/centurylib/core/functions.php:74
+msgid "Croped"
+msgstr ""
+
+#: inc/centurylib/core/functions.php:74
+msgid "Resize"
+msgstr ""
+
+#: inc/centurylib/core/functions.php:92
+msgid "ASC"
+msgstr ""
+
+#: inc/centurylib/core/functions.php:93
+msgid "DESC"
+msgstr ""
+
+#: inc/centurylib/core/functions.php:108
+#: inc/widgets/class-tcy-block-posts-widget.php:89
+msgid "None"
+msgstr ""
+
+#: inc/centurylib/core/functions.php:109
+msgid "ID"
+msgstr ""
+
+#: inc/centurylib/core/functions.php:110
+msgid "Author"
+msgstr ""
+
+#: inc/centurylib/core/functions.php:111
+#: inc/centurylib/widgets/class-tcy-author-info-widget.php:47
+#: inc/centurylib/widgets/class-tcy-social-icons-widget.php:43
+#: inc/centurylib/widgets/fields/tcy-master-widget.php:22
+#: inc/widgets/class-tcy-call-to-action-widget.php:46
+msgid "Title"
+msgstr ""
+
+#: inc/centurylib/core/functions.php:112
+msgid "Date"
+msgstr ""
+
+#: inc/centurylib/core/functions.php:113
+msgid "Modified Date"
+msgstr ""
+
+#: inc/centurylib/core/functions.php:114
+msgid "Random"
+msgstr ""
+
+#: inc/centurylib/core/functions.php:115
+msgid "Comment Count"
+msgstr ""
+
+#: inc/centurylib/core/functions.php:116
+msgid "Menu Order"
+msgstr ""
+
+#: inc/centurylib/core/functions.php:149
+#: inc/centurylib/customizer/templates/templates-404-page.php:40
+#: inc/centurylib/customizer/templates/templates-archive-page.php:39
+#: inc/centurylib/customizer/templates/templates-blog-page.php:39
+#: inc/centurylib/customizer/templates/templates-page-details.php:39
+#: inc/centurylib/customizer/templates/templates-post-single.php:39
+#: inc/centurylib/customizer/templates/templates-search-page.php:40
+#: inc/customizer/header/section-main-navigation.php:42
+#: inc/customizer/header/section-site-identity.php:75
+#: inc/customizer/homepage/section-banner-slider.php:264
+msgid "Disable"
+msgstr ""
+
+#: inc/centurylib/core/functions.php:150
+#: inc/customizer/homepage/section-banner-slider.php:118
+#: inc/customizer/homepage/section-banner-slider.php:138
+msgid "Open with New Tab"
+msgstr ""
+
+#: inc/centurylib/core/functions.php:151
+msgid "Open with Same Tab"
+msgstr ""
+
+#: inc/centurylib/core/functions.php:170
+msgid "Carousel"
+msgstr ""
+
+#: inc/centurylib/core/functions.php:171
+msgid "Columns"
+msgstr ""
+
+#: inc/centurylib/core/functions.php:205
+#: inc/centurylib/widgets/function-tcy-widget-dependencies.php:20
+#: inc/customizer/homepage/section-banner-slider.php:265
+#: inc/customizer/templates/template-home-page.php:23
+msgid "Default"
+msgstr ""
+
+#: inc/centurylib/core/functions.php:206
+msgid "fa-2x"
+msgstr ""
+
+#: inc/centurylib/core/functions.php:207
+msgid "fa-3x"
+msgstr ""
+
+#: inc/centurylib/core/functions.php:208
+msgid "fa-4x"
+msgstr ""
+
+#: inc/centurylib/core/functions.php:209
+msgid "fa-5x"
+msgstr ""
+
+#: inc/centurylib/core/functions.php:254
+#: inc/widgets/class-tcy-page-block-widget.php:59
+msgid "Read More"
+msgstr ""
+
+#: inc/centurylib/core/functions.php:304
+msgid "Like"
+msgstr ""
+
+#: inc/centurylib/core/functions.php:308
+msgid "Sad"
+msgstr ""
+
+#: inc/centurylib/core/functions.php:312
+msgid "Love"
+msgstr ""
+
+#: inc/centurylib/core/functions.php:316
+msgid "Surprised"
+msgstr ""
+
+#: inc/centurylib/core/functions.php:320
+msgid "Angry"
+msgstr ""
+
+#: inc/centurylib/core/functions.php:324
+msgid "Happy"
+msgstr ""
+
+#: inc/centurylib/core/functions.php:328
+msgid "Crying"
+msgstr ""
+
+#: inc/centurylib/core/functions.php:347 inc/centurylib/core/functions.php:356
+#. translators: %s: Column Key
+#. translators: %s: Index Key
+msgid "Key %s does not exist in array"
+msgstr ""
+
+#: inc/centurylib/core/functions.php:361
+#. translators: %s: Index Key
+msgid "Key %s does not contain scalar value"
+msgstr ""
+
+#: inc/centurylib/customizer/colors/panel-colors.php:14
+msgid "Color Options"
+msgstr ""
+
+#: inc/centurylib/customizer/colors/panel-colors.php:15
+msgid ""
+"Colors related settings and sections goes here. You can manage color from "
+"this panel."
+msgstr ""
+
+#: inc/centurylib/customizer/colors/section-category-colors.php:12
+msgid "Category Colors"
+msgstr ""
+
+#: inc/centurylib/customizer/colors/section-category-colors.php:38
+#. translators: %s: Category Name
+msgid " %s Button Background"
+msgstr ""
+
+#: inc/centurylib/customizer/colors/section-global-colors.php:11
+msgid "Global Colors"
+msgstr ""
+
+#: inc/centurylib/customizer/controls/tcy-customizer-icons-control.php:34
+#: inc/centurylib/customizer/controls/tcy-customizer-repeater-control.php:172
+#: inc/centurylib/customizer/controls/tcy-customizer-repeater-control.php:307
+#: inc/centurylib/customizer/sections/section-social-icons.php:46
+#: inc/centurylib/widgets/class-tcy-social-icons-widget.php:94
+#: inc/centurylib/widgets/fields/tcy-icon-field.php:15
+msgid "Add Icon"
+msgstr ""
+
+#: inc/centurylib/customizer/controls/tcy-customizer-icons-control.php:34
+msgid "Change Icon"
+msgstr ""
+
+#: inc/centurylib/customizer/controls/tcy-customizer-icons-control.php:38
+#: inc/centurylib/customizer/controls/tcy-customizer-repeater-control.php:176
+#: inc/centurylib/customizer/controls/tcy-customizer-repeater-control.php:311
+#: inc/centurylib/widgets/fields/tcy-icon-field.php:19
+#: inc/customizer/header/section-main-navigation.php:67
+msgid "Search Icon"
+msgstr ""
+
+#: inc/centurylib/customizer/controls/tcy-customizer-repeater-control.php:192
+#: inc/centurylib/customizer/controls/tcy-customizer-repeater-control.php:331
+msgid "Field type "
+msgstr ""
+
+#: inc/centurylib/customizer/controls/tcy-customizer-repeater-control.php:192
+#: inc/centurylib/customizer/controls/tcy-customizer-repeater-control.php:331
+msgid " not found."
+msgstr ""
+
+#: inc/centurylib/customizer/controls/tcy-customizer-repeater-control.php:203
+#: inc/centurylib/customizer/controls/tcy-customizer-repeater-control.php:342
+msgid "Delete"
+msgstr ""
+
+#: inc/centurylib/customizer/controls/tcy-customizer-repeater-control.php:205
+#: inc/centurylib/customizer/controls/tcy-customizer-repeater-control.php:343
+msgid "|"
+msgstr ""
+
+#: inc/centurylib/customizer/controls/tcy-customizer-repeater-control.php:207
+#: inc/centurylib/customizer/controls/tcy-customizer-repeater-control.php:345
+#: inc/centurylib/customizer/editor/section-custom-javascript.php:33
+#: inc/centurylib/widgets/fields/tcy-repeater-field.php:49
+#: inc/centurylib/widgets/fields/tcy-repeater-field.php:86
+msgid "Close"
+msgstr ""
+
+#: inc/centurylib/customizer/controls/tcy-customizer-repeater-control.php:307
+#: inc/centurylib/widgets/fields/tcy-icon-field.php:15
+msgid "Edit Icon"
+msgstr ""
+
+#: inc/centurylib/customizer/controls/tcy-customizer-termslist-control.php:41
+#: inc/widgets/class-tcy-block-posts-widget.php:130
+msgid "All"
+msgstr ""
+
+#: inc/centurylib/customizer/editor/panel-code-editor.php:11
+msgid "Additional Code"
+msgstr ""
+
+#: inc/centurylib/customizer/editor/panel-code-editor.php:12
+msgid "You can add new css and js from this panel."
+msgstr ""
+
+#: inc/centurylib/customizer/editor/section-custom-javascript.php:6
+msgid ""
+"Add your own JS code here to customize the appearance and layout of your "
+"site."
+msgstr ""
+
+#: inc/centurylib/customizer/editor/section-custom-javascript.php:9
+msgid "When using a keyboard to navigate:"
+msgstr ""
+
+#: inc/centurylib/customizer/editor/section-custom-javascript.php:11
+msgid "In the editing area, the Tab key enters a tab character."
+msgstr ""
+
+#: inc/centurylib/customizer/editor/section-custom-javascript.php:12
+msgid "To move away from this area, press the Esc key followed by the Tab key."
+msgstr ""
+
+#: inc/centurylib/customizer/editor/section-custom-javascript.php:13
+msgid ""
+"Screen reader users: when in forms mode, you may need to press the escape "
+"key twice."
+msgstr ""
+
+#: inc/centurylib/customizer/editor/section-custom-javascript.php:20
+#. translators: 1: link to user profile, 2: additional link attributes, 3:
+#. accessibility text
+msgid ""
+"The edit field automatically highlights code syntax. You can disable this "
+"in your <a href=\"%1$s\" %2$s>user profile%3$s</a> to work in plain text "
+"mode."
+msgstr ""
+
+#: inc/centurylib/customizer/editor/section-custom-javascript.php:26
+#. translators: accessibility text
+msgid "(opens in a new tab)"
+msgstr ""
+
+#: inc/centurylib/customizer/editor/section-custom-javascript.php:39
+#: inc/centurylib/customizer/editor/section-custom-javascript.php:58
+msgid "Additional JS"
+msgstr ""
+
+#: inc/centurylib/customizer/footer/panel-footer.php:11
+msgid "Footer Options"
+msgstr ""
+
+#: inc/centurylib/customizer/footer/panel-footer.php:12
+msgid ""
+"Footer related settings and sections goes here. You can manage footer from "
+"this panel."
+msgstr ""
+
+#: inc/centurylib/customizer/footer/section-bottom-footer.php:12
+msgid "Footer Bottom"
+msgstr ""
+
+#: inc/centurylib/customizer/footer/section-bottom-footer.php:25
+#: inc/parts/footer.php:77
+msgid "Copyright 2019 All rights reserved."
+msgstr ""
+
+#: inc/centurylib/customizer/footer/section-bottom-footer.php:33
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/centurylib/customizer/footer/section-bottom-footer.php:35
+msgid "Write your own copyright text here to display bottom of the footer."
+msgstr ""
+
+#: inc/centurylib/customizer/header/panel-header.php:11
+msgid "Header Options"
+msgstr ""
+
+#: inc/centurylib/customizer/header/panel-header.php:12
+msgid ""
+"Header related settings and sections goes here. You can manage header from "
+"this panel."
+msgstr ""
+
+#: inc/centurylib/customizer/options/panel-options.php:14
+#: inc/centurylib/metabox/tcy-theme-settings-metabox.php:126
+msgid "Theme Options"
+msgstr ""
+
+#: inc/centurylib/customizer/options/panel-options.php:15
+msgid "Remaining all setting options goes here."
+msgstr ""
+
+#: inc/centurylib/customizer/sections/panel-sections.php:10
+msgid "Additional Sections"
+msgstr ""
+
+#: inc/centurylib/customizer/sections/panel-sections.php:11
+msgid "Overall section settings goes here."
+msgstr ""
+
+#: inc/centurylib/customizer/sections/section-breadcrumbs.php:10
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/centurylib/customizer/sections/section-breadcrumbs.php:33
+msgid "Breadcrumbs Layout"
+msgstr ""
+
+#: inc/centurylib/customizer/sections/section-breadcrumbs.php:38
+#: inc/customizer/options/section-widget-settings.php:34
+#: inc/hooks/plugins/theeventcalendar.php:52
+#: inc/widgets/class-tcy-call-to-action-widget.php:147
+#: inc/widgets/class-tcy-site-carousel-widget.php:128
+#: inc/widgets/class-tcy-testimonial-section-widget.php:189
+msgid "Layout One"
+msgstr ""
+
+#: inc/centurylib/customizer/sections/section-breadcrumbs.php:39
+#: inc/customizer/options/section-widget-settings.php:35
+#: inc/hooks/plugins/theeventcalendar.php:53
+#: inc/widgets/class-tcy-call-to-action-widget.php:148
+#: inc/widgets/class-tcy-site-carousel-widget.php:129
+#: inc/widgets/class-tcy-testimonial-section-widget.php:190
+msgid "Layout Two"
+msgstr ""
+
+#: inc/centurylib/customizer/sections/section-breadcrumbs.php:41
+msgid "You can choose breadcrumbs layout to show website."
+msgstr ""
+
+#: inc/centurylib/customizer/sections/section-breadcrumbs.php:64
+msgid "Breadcrumbs Background"
+msgstr ""
+
+#: inc/centurylib/customizer/sections/section-social-icons.php:11
+#: inc/customizer/header/section-top-header.php:96
+#: inc/library/class-hamroclass-admin.php:532
+msgid "Social Icons"
+msgstr ""
+
+#: inc/centurylib/customizer/sections/section-social-icons.php:14
+msgid "Social media icons to display sidebar and widget from here."
+msgstr ""
+
+#: inc/centurylib/customizer/sections/section-social-icons.php:42
+msgid "Social Media Icons"
+msgstr ""
+
+#: inc/centurylib/customizer/sections/section-social-icons.php:47
+#: inc/centurylib/customizer/sections/section-social-icons.php:54
+#: inc/centurylib/widgets/class-tcy-social-icons-widget.php:115
+msgid "Social Media Icon"
+msgstr ""
+
+#: inc/centurylib/customizer/sections/section-social-icons.php:48
+msgid "Social media icons for sharing article page and posts."
+msgstr ""
+
+#: inc/centurylib/customizer/sections/section-social-icons.php:55
+msgid "Choose social media icon."
+msgstr ""
+
+#: inc/centurylib/customizer/sections/section-social-icons.php:59
+msgid "Social Icon Url"
+msgstr ""
+
+#: inc/centurylib/customizer/sections/section-social-icons.php:60
+msgid "Enter social media url."
+msgstr ""
+
+#: inc/centurylib/customizer/sections/section-social-icons.php:65
+msgid "Social Icon Background"
+msgstr ""
+
+#: inc/centurylib/customizer/sections/section-social-icons.php:66
+msgid "Choose social media icon background color."
+msgstr ""
+
+#: inc/centurylib/customizer/sections/section-visitor-reaction.php:11
+msgid "Visitor Reactions"
+msgstr ""
+
+#: inc/centurylib/customizer/sections/section-visitor-reaction.php:14
+msgid "Set reaction format and display visitor reactions in perentage and number."
+msgstr ""
+
+#: inc/centurylib/customizer/sections/section-visitor-reaction.php:25
+msgid "Share your feeling about this article."
+msgstr ""
+
+#: inc/centurylib/customizer/sections/section-visitor-reaction.php:34
+msgid "Reactions Heading"
+msgstr ""
+
+#: inc/centurylib/customizer/sections/section-visitor-reaction.php:59
+msgid "Display Reactions Type"
+msgstr ""
+
+#: inc/centurylib/customizer/sections/section-visitor-reaction.php:60
+msgid "Choose display reaction type."
+msgstr ""
+
+#: inc/centurylib/customizer/sections/section-visitor-reaction.php:66
+msgid "Percentage"
+msgstr ""
+
+#: inc/centurylib/customizer/sections/section-visitor-reaction.php:67
+msgid "Total Values"
+msgstr ""
+
+#: inc/centurylib/customizer/sections/section-visitor-reaction.php:90
+msgid "Visitor reaction icons."
+msgstr ""
+
+#: inc/centurylib/customizer/sections/section-visitor-reaction.php:94
+msgid "Add Reaction"
+msgstr ""
+
+#: inc/centurylib/customizer/sections/section-visitor-reaction.php:95
+msgid "Reaction Details"
+msgstr ""
+
+#: inc/centurylib/customizer/sections/section-visitor-reaction.php:100
+msgid "Reaction Icon"
+msgstr ""
+
+#: inc/centurylib/customizer/sections/section-visitor-reaction.php:101
+msgid "Choose reaction icon."
+msgstr ""
+
+#: inc/centurylib/customizer/sections/section-visitor-reaction.php:105
+msgid "Reaction Title"
+msgstr ""
+
+#: inc/centurylib/customizer/sections/section-visitor-reaction.php:106
+msgid "Enter reaction title here."
+msgstr ""
+
+#: inc/centurylib/customizer/templates/panel-templates.php:14
+msgid "Template Options"
+msgstr ""
+
+#: inc/centurylib/customizer/templates/panel-templates.php:15
+msgid ""
+"Templates related settings and sections goes here. You can manage different "
+"templates like page, post, 404page etc from this panel."
+msgstr ""
+
+#: inc/centurylib/customizer/templates/templates-404-page.php:11
+msgid "404 Options"
+msgstr ""
+
+#: inc/centurylib/customizer/templates/templates-404-page.php:33
+#: inc/centurylib/customizer/templates/templates-archive-page.php:33
+#: inc/centurylib/customizer/templates/templates-blog-page.php:33
+#: inc/centurylib/customizer/templates/templates-page-details.php:33
+#: inc/centurylib/customizer/templates/templates-post-single.php:33
+#: inc/centurylib/customizer/templates/templates-search-page.php:33
+msgid "Enable Breadcrumbs?"
+msgstr ""
+
+#: inc/centurylib/customizer/templates/templates-404-page.php:39
+#: inc/centurylib/customizer/templates/templates-archive-page.php:38
+#: inc/centurylib/customizer/templates/templates-blog-page.php:38
+#: inc/centurylib/customizer/templates/templates-page-details.php:38
+#: inc/centurylib/customizer/templates/templates-post-single.php:38
+#: inc/centurylib/customizer/templates/templates-search-page.php:39
+#: inc/customizer/header/section-main-navigation.php:41
+#: inc/customizer/header/section-site-identity.php:74
+msgid "Enable"
+msgstr ""
+
+#: inc/centurylib/customizer/templates/templates-404-page.php:42
+msgid "You can enable breadcrumbs to show before notfound page."
+msgstr ""
+
+#: inc/centurylib/customizer/templates/templates-404-page.php:64
+#: inc/centurylib/customizer/templates/templates-archive-page.php:63
+#: inc/centurylib/customizer/templates/templates-blog-page.php:63
+#: inc/centurylib/customizer/templates/templates-page-details.php:63
+#: inc/centurylib/customizer/templates/templates-post-single.php:63
+#: inc/centurylib/customizer/templates/templates-search-page.php:64
+#: inc/centurylib/metabox/tcy-theme-settings-metabox.php:141
+msgid "Sidebar Layout"
+msgstr ""
+
+#: inc/centurylib/customizer/templates/templates-404-page.php:65
+#: inc/centurylib/customizer/templates/templates-archive-page.php:64
+#: inc/centurylib/customizer/templates/templates-blog-page.php:64
+#: inc/centurylib/customizer/templates/templates-page-details.php:64
+#: inc/centurylib/customizer/templates/templates-post-single.php:64
+#: inc/centurylib/customizer/templates/templates-search-page.php:65
+msgid "Choose sidebar from available layouts"
+msgstr ""
+
+#: inc/centurylib/customizer/templates/templates-404-page.php:69
+#: inc/centurylib/customizer/templates/templates-archive-page.php:68
+#: inc/centurylib/customizer/templates/templates-blog-page.php:68
+#: inc/centurylib/customizer/templates/templates-page-details.php:68
+#: inc/centurylib/customizer/templates/templates-post-single.php:68
+#: inc/centurylib/customizer/templates/templates-search-page.php:69
+#: inc/centurylib/metabox/tcy-theme-settings-metabox.php:150
+#: inc/widgets/init.php:56
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/centurylib/customizer/templates/templates-404-page.php:73
+#: inc/centurylib/customizer/templates/templates-archive-page.php:72
+#: inc/centurylib/customizer/templates/templates-blog-page.php:72
+#: inc/centurylib/customizer/templates/templates-page-details.php:72
+#: inc/centurylib/customizer/templates/templates-post-single.php:72
+#: inc/centurylib/customizer/templates/templates-search-page.php:73
+#: inc/centurylib/metabox/tcy-theme-settings-metabox.php:154
+#: inc/widgets/init.php:39
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/centurylib/customizer/templates/templates-404-page.php:77
+#: inc/centurylib/customizer/templates/templates-archive-page.php:76
+#: inc/centurylib/customizer/templates/templates-blog-page.php:76
+#: inc/centurylib/customizer/templates/templates-page-details.php:76
+#: inc/centurylib/customizer/templates/templates-post-single.php:76
+#: inc/centurylib/customizer/templates/templates-search-page.php:77
+#: inc/centurylib/metabox/tcy-theme-settings-metabox.php:158
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/centurylib/customizer/templates/templates-404-page.php:81
+#: inc/centurylib/customizer/templates/templates-archive-page.php:80
+#: inc/centurylib/customizer/templates/templates-blog-page.php:80
+#: inc/centurylib/customizer/templates/templates-page-details.php:80
+#: inc/centurylib/customizer/templates/templates-post-single.php:80
+#: inc/centurylib/customizer/templates/templates-search-page.php:81
+#: inc/centurylib/metabox/tcy-theme-settings-metabox.php:162
+msgid "No Sidebar Center"
+msgstr ""
+
+#: inc/centurylib/customizer/templates/templates-404-page.php:85
+#: inc/centurylib/customizer/templates/templates-archive-page.php:84
+#: inc/centurylib/customizer/templates/templates-blog-page.php:84
+#: inc/centurylib/customizer/templates/templates-page-details.php:84
+#: inc/centurylib/customizer/templates/templates-post-single.php:84
+#: inc/centurylib/customizer/templates/templates-search-page.php:85
+#: inc/centurylib/metabox/tcy-theme-settings-metabox.php:113
+#: inc/centurylib/metabox/tcy-theme-settings-metabox.php:166
+msgid "Both Sidebar"
+msgstr ""
+
+#: inc/centurylib/customizer/templates/templates-404-page.php:102
+msgid "Oops! That page cant be found."
+msgstr ""
+
+#: inc/centurylib/customizer/templates/templates-404-page.php:110
+msgid "404 Page Title"
+msgstr ""
+
+#: inc/centurylib/customizer/templates/templates-404-page.php:113
+msgid "Please enter title to display on 404 page."
+msgstr ""
+
+#: inc/centurylib/customizer/templates/templates-404-page.php:125
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: inc/centurylib/customizer/templates/templates-404-page.php:133
+msgid "404 Page Description"
+msgstr ""
+
+#: inc/centurylib/customizer/templates/templates-404-page.php:136
+msgid "Please enter description to display on 404 page."
+msgstr ""
+
+#: inc/centurylib/customizer/templates/templates-archive-page.php:11
+msgid "Archive Options"
+msgstr ""
+
+#: inc/centurylib/customizer/templates/templates-archive-page.php:41
+msgid "You can enable breadcrumbs to show before archive page."
+msgstr ""
+
+#: inc/centurylib/customizer/templates/templates-archive-page.php:101
+#: inc/centurylib/customizer/templates/templates-blog-page.php:101
+#: inc/centurylib/customizer/templates/templates-search-page.php:102
+#: inc/customizer/homepage/section-banner-slider.php:149 inc/parts/parts.php:16
+#: template-parts/listing/content-classic.php:25
+#: template-parts/listing/content-grid.php:26
+#: template-parts/listing/content-list.php:27
+#: template-parts/listing/content.php:25
+msgid "Read More..."
+msgstr ""
+
+#: inc/centurylib/customizer/templates/templates-archive-page.php:109
+#: inc/centurylib/customizer/templates/templates-blog-page.php:109
+#: inc/centurylib/customizer/templates/templates-search-page.php:110
+msgid "Readmore Text"
+msgstr ""
+
+#: inc/centurylib/customizer/templates/templates-archive-page.php:111
+msgid "If you can show featured image on archive page check on show button."
+msgstr ""
+
+#: inc/centurylib/customizer/templates/templates-archive-page.php:131
+#: inc/centurylib/customizer/templates/templates-blog-page.php:131
+#: inc/centurylib/customizer/templates/templates-search-page.php:133
+#: inc/customizer/homepage/section-banner-slider.php:340
+#: inc/widgets/class-tcy-featured-blocks-widget.php:125
+#: inc/widgets/class-tcy-site-carousel-widget.php:104
+msgid "Description Length"
+msgstr ""
+
+#: inc/centurylib/customizer/templates/templates-archive-page.php:133
+msgid "Please choose no of character to display description length in archive page."
+msgstr ""
+
+#: inc/centurylib/customizer/templates/templates-archive-page.php:153
+#: inc/centurylib/customizer/templates/templates-blog-page.php:153
+#: inc/centurylib/customizer/templates/templates-search-page.php:156
+msgid "Show date on posts?"
+msgstr ""
+
+#: inc/centurylib/customizer/templates/templates-archive-page.php:158
+#: inc/centurylib/customizer/templates/templates-archive-page.php:187
+#: inc/centurylib/customizer/templates/templates-blog-page.php:158
+#: inc/centurylib/customizer/templates/templates-blog-page.php:187
+#: inc/centurylib/customizer/templates/templates-page-details.php:114
+#: inc/centurylib/customizer/templates/templates-post-single.php:114
+#: inc/centurylib/customizer/templates/templates-post-single.php:143
+#: inc/centurylib/customizer/templates/templates-post-single.php:172
+#: inc/centurylib/customizer/templates/templates-post-single.php:201
+#: inc/centurylib/customizer/templates/templates-post-single.php:231
+#: inc/centurylib/customizer/templates/templates-post-single.php:260
+#: inc/centurylib/customizer/templates/templates-post-single.php:289
+#: inc/centurylib/customizer/templates/templates-post-single.php:322
+#: inc/centurylib/customizer/templates/templates-search-page.php:161
+#: inc/centurylib/customizer/templates/templates-search-page.php:190
+#: inc/customizer/footer/section-main-footer.php:38
+#: inc/customizer/header/section-main-navigation.php:71
+#: inc/customizer/header/section-notice-header.php:35
+#: inc/customizer/header/section-top-header.php:40
+#: inc/customizer/header/section-top-header.php:70
+#: inc/customizer/header/section-top-header.php:100
+msgid "Show"
+msgstr ""
+
+#: inc/centurylib/customizer/templates/templates-archive-page.php:159
+#: inc/centurylib/customizer/templates/templates-archive-page.php:188
+#: inc/centurylib/customizer/templates/templates-blog-page.php:159
+#: inc/centurylib/customizer/templates/templates-blog-page.php:188
+#: inc/centurylib/customizer/templates/templates-page-details.php:115
+#: inc/centurylib/customizer/templates/templates-post-single.php:115
+#: inc/centurylib/customizer/templates/templates-post-single.php:144
+#: inc/centurylib/customizer/templates/templates-post-single.php:173
+#: inc/centurylib/customizer/templates/templates-post-single.php:202
+#: inc/centurylib/customizer/templates/templates-post-single.php:232
+#: inc/centurylib/customizer/templates/templates-post-single.php:261
+#: inc/centurylib/customizer/templates/templates-post-single.php:290
+#: inc/centurylib/customizer/templates/templates-post-single.php:323
+#: inc/centurylib/customizer/templates/templates-search-page.php:162
+#: inc/centurylib/customizer/templates/templates-search-page.php:191
+#: inc/customizer/footer/section-main-footer.php:39
+#: inc/customizer/header/section-main-navigation.php:72
+#: inc/customizer/header/section-notice-header.php:36
+#: inc/customizer/header/section-top-header.php:41
+#: inc/customizer/header/section-top-header.php:71
+#: inc/customizer/header/section-top-header.php:101
+msgid "Hide"
+msgstr ""
+
+#: inc/centurylib/customizer/templates/templates-archive-page.php:161
+msgid "If you can show post date on archive page please check show button."
+msgstr ""
+
+#: inc/centurylib/customizer/templates/templates-archive-page.php:182
+#: inc/centurylib/customizer/templates/templates-blog-page.php:182
+#: inc/centurylib/customizer/templates/templates-search-page.php:185
+msgid "Show author name on posts?"
+msgstr ""
+
+#: inc/centurylib/customizer/templates/templates-archive-page.php:190
+msgid "If you can show author name on archive page please check show button."
+msgstr ""
+
+#: inc/centurylib/customizer/templates/templates-blog-page.php:11
+msgid "Blog/Home Page"
+msgstr ""
+
+#: inc/centurylib/customizer/templates/templates-blog-page.php:41
+msgid "You can enable breadcrumbs to show before blog page."
+msgstr ""
+
+#: inc/centurylib/customizer/templates/templates-blog-page.php:111
+msgid "If you can show featured image on blog page check on show button."
+msgstr ""
+
+#: inc/centurylib/customizer/templates/templates-blog-page.php:133
+msgid "Please choose no of character to display description length in blog page."
+msgstr ""
+
+#: inc/centurylib/customizer/templates/templates-blog-page.php:161
+msgid "If you can show post date on blog page please check show button."
+msgstr ""
+
+#: inc/centurylib/customizer/templates/templates-blog-page.php:190
+msgid "If you can show author name on blog page please check show button."
+msgstr ""
+
+#: inc/centurylib/customizer/templates/templates-page-details.php:11
+msgid "Page Options"
+msgstr ""
+
+#: inc/centurylib/customizer/templates/templates-page-details.php:41
+msgid "You can enable breadcrumbs to show before page details."
+msgstr ""
+
+#: inc/centurylib/customizer/templates/templates-page-details.php:109
+#: inc/centurylib/customizer/templates/templates-post-single.php:109
+msgid "Show Featured Image?"
+msgstr ""
+
+#: inc/centurylib/customizer/templates/templates-page-details.php:117
+#: inc/centurylib/customizer/templates/templates-post-single.php:117
+msgid "If you can show featured image on single page check on show button."
+msgstr ""
+
+#: inc/centurylib/customizer/templates/templates-post-single.php:11
+msgid "Post Options"
+msgstr ""
+
+#: inc/centurylib/customizer/templates/templates-post-single.php:41
+msgid "You can enable breadcrumbs to show before post details."
+msgstr ""
+
+#: inc/centurylib/customizer/templates/templates-post-single.php:138
+msgid "Show Categories?"
+msgstr ""
+
+#: inc/centurylib/customizer/templates/templates-post-single.php:146
+msgid ""
+"If you can show categories list of related post on post details please "
+"check show button."
+msgstr ""
+
+#: inc/centurylib/customizer/templates/templates-post-single.php:167
+msgid "Show date on post?"
+msgstr ""
+
+#: inc/centurylib/customizer/templates/templates-post-single.php:175
+msgid "If you can show post date on post details please check show button."
+msgstr ""
+
+#: inc/centurylib/customizer/templates/templates-post-single.php:196
+msgid "Show author name on post?"
+msgstr ""
+
+#: inc/centurylib/customizer/templates/templates-post-single.php:204
+msgid "If you can show author name on post details please check show button."
+msgstr ""
+
+#: inc/centurylib/customizer/templates/templates-post-single.php:226
+msgid "Show tags name on post?"
+msgstr ""
+
+#: inc/centurylib/customizer/templates/templates-post-single.php:234
+msgid "If you can show tags name on post details please check show button."
+msgstr ""
+
+#: inc/centurylib/customizer/templates/templates-post-single.php:255
+msgid "Show before and after post link on post?"
+msgstr ""
+
+#: inc/centurylib/customizer/templates/templates-post-single.php:263
+msgid ""
+"If you can show before and after post link on post details please check "
+"show button."
+msgstr ""
+
+#: inc/centurylib/customizer/templates/templates-post-single.php:284
+msgid "Show author info on post?"
+msgstr ""
+
+#: inc/centurylib/customizer/templates/templates-post-single.php:292
+msgid "If you can show author info on post details please check show button."
+msgstr ""
+
+#: inc/centurylib/customizer/templates/templates-post-single.php:318
+msgid "Related Post Option"
+msgstr ""
+
+#: inc/centurylib/customizer/templates/templates-post-single.php:319
+msgid "Show/Hide option for related posts section at single post page."
+msgstr ""
+
+#: inc/centurylib/customizer/templates/templates-post-single.php:332
+#: inc/parts/single.php:24
+msgid "Related Posts"
+msgstr ""
+
+#: inc/centurylib/customizer/templates/templates-post-single.php:340
+msgid "Related Post Title"
+msgstr ""
+
+#: inc/centurylib/customizer/templates/templates-post-single.php:357
+msgid "Related Posts from?"
+msgstr ""
+
+#: inc/centurylib/customizer/templates/templates-search-page.php:11
+msgid "Search Page"
+msgstr ""
+
+#: inc/centurylib/customizer/templates/templates-search-page.php:42
+msgid "You can enable breadcrumbs to show before search page."
+msgstr ""
+
+#: inc/centurylib/customizer/templates/templates-search-page.php:113
+msgid "If you can show featured image on search page check on show button."
+msgstr ""
+
+#: inc/centurylib/customizer/templates/templates-search-page.php:136
+msgid "Please choose no of character to display description length in search page."
+msgstr ""
+
+#: inc/centurylib/customizer/templates/templates-search-page.php:164
+msgid "If you can show post date on search page please check show button."
+msgstr ""
+
+#: inc/centurylib/customizer/templates/templates-search-page.php:193
+msgid "If you can show author name on search page please check show button."
+msgstr ""
+
+#: inc/centurylib/hooks/ajax.php:23 inc/hooks/ajax.php:30
+msgid "Nonce doesnot exist."
+msgstr ""
+
+#: inc/centurylib/hooks/ajax.php:29 inc/hooks/ajax.php:36
+msgid "Nonce doesnot match."
+msgstr ""
+
+#: inc/centurylib/hooks/ajax.php:36
+msgid "Post id not found."
+msgstr ""
+
+#: inc/centurylib/hooks/ajax.php:43
+msgid "Reaction value not found."
+msgstr ""
+
+#: inc/centurylib/hooks/ajax.php:50
+msgid "You are already react on this emoji."
+msgstr ""
+
+#: inc/centurylib/hooks/ajax.php:60
+msgid "Successfully react on emoji."
+msgstr ""
+
+#: inc/centurylib/library/breadcrumbs/breadcrumbs.php:291
+msgid "Browse:"
+msgstr ""
+
+#: inc/centurylib/library/breadcrumbs/breadcrumbs.php:293
+#: inc/functions/template-functions.php:398
+msgid "Home"
+msgstr ""
+
+#: inc/centurylib/library/breadcrumbs/breadcrumbs.php:294
+msgid "404 Not Found"
+msgstr ""
+
+#: inc/centurylib/library/breadcrumbs/breadcrumbs.php:295
+msgid "Archives"
+msgstr ""
+
+#: inc/centurylib/library/breadcrumbs/breadcrumbs.php:297
+#. Translators: %s is the search query. The HTML entities are opening and
+#. closing curly quotes.
+msgid "Search results for &#8220;%s&#8221;"
+msgstr ""
+
+#: inc/centurylib/library/breadcrumbs/breadcrumbs.php:299
+#. Translators: %s is the page number.
+msgid "Page %s"
+msgstr ""
+
+#: inc/centurylib/library/breadcrumbs/breadcrumbs.php:301
+#. Translators: Minute archive title. %s is the minute time format.
+msgid "Minute %s"
+msgstr ""
+
+#: inc/centurylib/library/breadcrumbs/breadcrumbs.php:303
+#. Translators: Weekly archive title. %s is the week date format.
+msgid "Week %s"
+msgstr ""
+
+#: inc/centurylib/metabox/tcy-theme-settings-metabox.php:83
+#: inc/centurylib/metabox/tcy-theme-settings-metabox.php:146
+msgid "Default Sidebar"
+msgstr ""
+
+#: inc/centurylib/metabox/tcy-theme-settings-metabox.php:89
+msgid "Left sidebar"
+msgstr ""
+
+#: inc/centurylib/metabox/tcy-theme-settings-metabox.php:95
+msgid "Right sidebar"
+msgstr ""
+
+#: inc/centurylib/metabox/tcy-theme-settings-metabox.php:101
+msgid "No sidebar Full width"
+msgstr ""
+
+#: inc/centurylib/metabox/tcy-theme-settings-metabox.php:107
+msgid "No sidebar Content Centered"
+msgstr ""
+
+#: inc/centurylib/metabox/tcy-theme-settings-metabox.php:182
+msgid "Sidebars"
+msgstr ""
+
+#: inc/centurylib/metabox/tcy-theme-settings-metabox.php:184
+msgid "Sidebar Settings"
+msgstr ""
+
+#: inc/centurylib/metabox/tcy-theme-settings-metabox.php:185
+msgid ""
+"If you want to override customizer settings please choose sidebar otherwise "
+"leave it default sidebar."
+msgstr ""
+
+#: inc/centurylib/metabox/tcy-theme-settings-metabox.php:312
+msgid "Sorry metabox field not found."
+msgstr ""
+
+#: inc/centurylib/metabox/tcy-theme-settings-metabox.php:318
+msgid "Please put some fields to show on metabox"
+msgstr ""
+
+#: inc/centurylib/widgets/class-tcy-author-info-widget.php:20
+msgid "A widget to display posts and thumbs with a lots of filters."
+msgstr ""
+
+#: inc/centurylib/widgets/class-tcy-author-info-widget.php:21
+msgid "HC - Author Info"
+msgstr ""
+
+#: inc/centurylib/widgets/class-tcy-author-info-widget.php:37
+#: inc/centurylib/widgets/class-tcy-author-info-widget.php:42
+#: inc/centurylib/widgets/class-tcy-social-icons-widget.php:33
+#: inc/centurylib/widgets/class-tcy-social-icons-widget.php:38
+#: inc/widgets/class-tcy-block-posts-widget.php:35
+#: inc/widgets/class-tcy-block-posts-widget.php:40
+#: inc/widgets/class-tcy-call-to-action-widget.php:36
+#: inc/widgets/class-tcy-call-to-action-widget.php:41
+#: inc/widgets/class-tcy-contact-form-widget.php:35
+#: inc/widgets/class-tcy-contact-form-widget.php:40
+#: inc/widgets/class-tcy-course-listing-widget.php:35
+#: inc/widgets/class-tcy-course-listing-widget.php:40
+#: inc/widgets/class-tcy-course-search-widget.php:35
+#: inc/widgets/class-tcy-course-search-widget.php:40
+#: inc/widgets/class-tcy-default-tabbed-widget.php:38
+#: inc/widgets/class-tcy-default-tabbed-widget.php:43
+#: inc/widgets/class-tcy-featured-blocks-widget.php:38
+#: inc/widgets/class-tcy-featured-blocks-widget.php:43
+#: inc/widgets/class-tcy-our-team-widget.php:35
+#: inc/widgets/class-tcy-our-team-widget.php:40
+#: inc/widgets/class-tcy-page-block-widget.php:36
+#: inc/widgets/class-tcy-page-block-widget.php:41
+#: inc/widgets/class-tcy-site-carousel-widget.php:38
+#: inc/widgets/class-tcy-site-carousel-widget.php:43
+#: inc/widgets/class-tcy-testimonial-section-widget.php:39
+#: inc/widgets/class-tcy-testimonial-section-widget.php:44
+#: inc/widgets/class-tcy-video-block-widget.php:35
+#: inc/widgets/class-tcy-video-block-widget.php:40
+msgid "General"
+msgstr ""
+
+#: inc/centurylib/widgets/class-tcy-author-info-widget.php:48
+msgid "Author Info"
+msgstr ""
+
+#: inc/centurylib/widgets/class-tcy-author-info-widget.php:54
+#: inc/widgets/class-tcy-block-posts-widget.php:52
+#: inc/widgets/class-tcy-call-to-action-widget.php:52
+#: inc/widgets/class-tcy-featured-blocks-widget.php:54
+#: inc/widgets/class-tcy-our-team-widget.php:52
+#: inc/widgets/class-tcy-site-carousel-widget.php:54
+#: inc/widgets/class-tcy-testimonial-section-widget.php:56
+msgid "Title Target"
+msgstr ""
+
+#: inc/centurylib/widgets/class-tcy-author-info-widget.php:74
+#: inc/centurylib/widgets/class-tcy-social-icons-widget.php:70
+#: inc/widgets/class-tcy-block-posts-widget.php:72
+#: inc/widgets/class-tcy-call-to-action-widget.php:72
+#: inc/widgets/class-tcy-featured-blocks-widget.php:74
+#: inc/widgets/class-tcy-our-team-widget.php:72
+#: inc/widgets/class-tcy-site-carousel-widget.php:74
+#: inc/widgets/class-tcy-testimonial-section-widget.php:76
+msgid "Title link"
+msgstr ""
+
+#: inc/centurylib/widgets/class-tcy-author-info-widget.php:81
+msgid "Choose author/user"
+msgstr ""
+
+#: inc/centurylib/widgets/class-tcy-author-info-widget.php:89
+msgid "Author Designation"
+msgstr ""
+
+#: inc/centurylib/widgets/class-tcy-author-info-widget.php:90
+msgid "CEO / Co-Founder"
+msgstr ""
+
+#: inc/centurylib/widgets/class-tcy-author-info-widget.php:96
+msgid "Show Author Avatar?"
+msgstr ""
+
+#: inc/centurylib/widgets/class-tcy-author-info-widget.php:115
+msgid "Avatar Size"
+msgstr ""
+
+#: inc/centurylib/widgets/class-tcy-author-info-widget.php:122
+#: inc/widgets/class-tcy-block-posts-widget.php:137
+#: inc/widgets/class-tcy-call-to-action-widget.php:139
+#: inc/widgets/class-tcy-featured-blocks-widget.php:103
+#: inc/widgets/class-tcy-site-carousel-widget.php:120
+#: inc/widgets/class-tcy-testimonial-section-widget.php:170
+msgid "Layout"
+msgstr ""
+
+#: inc/centurylib/widgets/class-tcy-author-info-widget.php:126
+msgid "Show Author Description?"
+msgstr ""
+
+#: inc/centurylib/widgets/class-tcy-author-info-widget.php:144
+msgid "Description Limit"
+msgstr ""
+
+#: inc/centurylib/widgets/class-tcy-author-info-widget.php:148
+msgid "Specify number of characters to limit author description length"
+msgstr ""
+
+#: inc/centurylib/widgets/class-tcy-author-info-widget.php:153
+msgid "Author link target"
+msgstr ""
+
+#: inc/centurylib/widgets/class-tcy-author-info-widget.php:161
+msgid "All link text"
+msgstr ""
+
+#: inc/centurylib/widgets/class-tcy-author-info-widget.php:162
+msgid "View All"
+msgstr ""
+
+#: inc/centurylib/widgets/class-tcy-social-icons-widget.php:17
+msgid "A Widget to display social icons."
+msgstr ""
+
+#: inc/centurylib/widgets/class-tcy-social-icons-widget.php:18
+msgid "HC - Social Icons"
+msgstr ""
+
+#: inc/centurylib/widgets/class-tcy-social-icons-widget.php:44
+msgid "Connect with us"
+msgstr ""
+
+#: inc/centurylib/widgets/class-tcy-social-icons-widget.php:50
+msgid "Link Target"
+msgstr ""
+
+#: inc/centurylib/widgets/class-tcy-social-icons-widget.php:76
+msgid "Icons Size"
+msgstr ""
+
+#: inc/centurylib/widgets/class-tcy-social-icons-widget.php:83
+msgid "Social icon open with"
+msgstr ""
+
+#: inc/centurylib/widgets/class-tcy-social-icons-widget.php:90
+msgid "Social Icon List"
+msgstr ""
+
+#: inc/centurylib/widgets/class-tcy-social-icons-widget.php:92
+msgid "To add social icon click to add icon."
+msgstr ""
+
+#: inc/centurylib/widgets/class-tcy-social-icons-widget.php:93
+msgid "Social Icon"
+msgstr ""
+
+#: inc/centurylib/widgets/class-tcy-social-icons-widget.php:121
+msgid "Social Media Link"
+msgstr ""
+
+#: inc/centurylib/widgets/class-tcy-social-icons-widget.php:127
+msgid "Social Icon Color"
+msgstr ""
+
+#: inc/centurylib/widgets/class-tcy-social-icons-widget.php:187
+msgid "HamroClass Social Media Icons"
+msgstr ""
+
+#: inc/centurylib/widgets/fields/tcy-accordion-field.php:44
+msgid "Sorry no field are added on accordion."
+msgstr ""
+
+#: inc/centurylib/widgets/fields/tcy-accordion-field.php:55
+msgid "There is no accordion on this accordion group"
+msgstr ""
+
+#: inc/centurylib/widgets/fields/tcy-master-widget.php:167
+msgid "Blank widget created"
+msgstr ""
+
+#: inc/centurylib/widgets/fields/tcy-multitermlist-field.php:42
+#: inc/centurylib/widgets/fields/tcy-termlist-field.php:36
+msgid "No terms found in this taxonomy"
+msgstr ""
+
+#: inc/centurylib/widgets/fields/tcy-multitermlist-field.php:45
+msgid "Selected taxonomy doesn't exist"
+msgstr ""
+
+#: inc/centurylib/widgets/fields/tcy-pagelist-field.php:21
+msgid "Select Page"
+msgstr ""
+
+#: inc/centurylib/widgets/fields/tcy-repeater-field.php:9
+msgid "Row"
+msgstr ""
+
+#: inc/centurylib/widgets/fields/tcy-repeater-field.php:10
+msgid "Add row"
+msgstr ""
+
+#: inc/centurylib/widgets/fields/tcy-repeater-field.php:48
+#: inc/centurylib/widgets/fields/tcy-repeater-field.php:85
+#: inc/centurylib/widgets/fields/tcy-upload-field.php:18
+msgid "Remove"
+msgstr ""
+
+#: inc/centurylib/widgets/fields/tcy-tabgroup-field.php:41
+msgid "No fields are added on "
+msgstr ""
+
+#: inc/centurylib/widgets/fields/tcy-tabgroup-field.php:41
+msgid " tab"
+msgstr ""
+
+#: inc/centurylib/widgets/fields/tcy-termlist-field.php:18
+msgid "Show All"
+msgstr ""
+
+#: inc/centurylib/widgets/fields/tcy-upload-field.php:13
+msgid "Image preview"
+msgstr ""
+
+#: inc/centurylib/widgets/fields/tcy-upload-field.php:16
+msgid "Choose file"
+msgstr ""
+
+#: inc/centurylib/widgets/fields/tcy-upload-field.php:17
+msgid "Upload"
+msgstr ""
+
+#: inc/centurylib/widgets/fields/tcy-upload-field.php:17
+msgid "Select Image"
+msgstr ""
+
+#: inc/centurylib/widgets/fields/tcy-widget-fields.php:23
+msgid "Field type"
+msgstr ""
+
+#: inc/centurylib/widgets/fields/tcy-widget-fields.php:23
+msgid "Not found."
+msgstr ""
+
+#: inc/customizer/colors/section-theme-color.php:19
+msgid "Theme Color"
+msgstr ""
+
+#: inc/customizer/footer/section-main-footer.php:10
+msgid "Footer Main"
+msgstr ""
+
+#: inc/customizer/footer/section-main-footer.php:34
+msgid "Footer Widget Section"
+msgstr ""
+
+#: inc/customizer/footer/section-main-footer.php:35
+msgid "Show/Hide option for footer widget area section."
+msgstr ""
+
+#: inc/customizer/footer/section-main-footer.php:63
+msgid "Upload Parallax image"
+msgstr ""
+
+#: inc/customizer/footer/section-main-footer.php:88
+msgid "Footer Widget Layout"
+msgstr ""
+
+#: inc/customizer/footer/section-main-footer.php:89
+#: inc/customizer/templates/template-archive-page.php:26
+#: inc/customizer/templates/template-blog-page.php:26
+#: inc/customizer/templates/template-search-page.php:26
+msgid "Choose layout from available layouts"
+msgstr ""
+
+#: inc/customizer/footer/section-main-footer.php:93
+msgid "Columns Four"
+msgstr ""
+
+#: inc/customizer/footer/section-main-footer.php:97
+msgid "Columns Three"
+msgstr ""
+
+#: inc/customizer/footer/section-main-footer.php:101
+msgid "Columns Two"
+msgstr ""
+
+#: inc/customizer/footer/section-main-footer.php:105
+#: inc/widgets/class-tcy-site-carousel-widget.php:96
+#: inc/widgets/class-tcy-testimonial-section-widget.php:178
+msgid "Column One"
+msgstr ""
+
+#: inc/customizer/header/section-header-info.php:12
+#: inc/customizer/header/section-site-identity.php:26
+msgid "Office Details"
+msgstr ""
+
+#: inc/customizer/header/section-header-info.php:23
+#: template-parts/parts/header-info.php:7
+msgid "Call Support: "
+msgstr ""
+
+#: inc/customizer/header/section-header-info.php:32
+msgid "Call Support Label:"
+msgstr ""
+
+#: inc/customizer/header/section-header-info.php:52
+msgid "Phone Number:"
+msgstr ""
+
+#: inc/customizer/header/section-header-info.php:64
+#: template-parts/parts/header-info.php:10
+msgid "Email Support: "
+msgstr ""
+
+#: inc/customizer/header/section-header-info.php:73
+msgid "Email Support Label:"
+msgstr ""
+
+#: inc/customizer/header/section-header-info.php:93
+msgid "Official Email:"
+msgstr ""
+
+#: inc/customizer/header/section-header-info.php:104
+#: template-parts/parts/header-info.php:13
+msgid "Location: "
+msgstr ""
+
+#: inc/customizer/header/section-header-info.php:113
+msgid "Location Label:"
+msgstr ""
+
+#: inc/customizer/header/section-header-info.php:124
+#: template-parts/parts/header-info.php:14
+msgid "Sydney New South Wales"
+msgstr ""
+
+#: inc/customizer/header/section-header-info.php:133
+msgid "Official Location:"
+msgstr ""
+
+#: inc/customizer/header/section-header-info.php:153
+msgid "Map Location Url:"
+msgstr ""
+
+#: inc/customizer/header/section-main-navigation.php:12
+msgid "Main Navigation"
+msgstr ""
+
+#: inc/customizer/header/section-main-navigation.php:37
+msgid "Sticky Menu"
+msgstr ""
+
+#: inc/customizer/header/section-main-navigation.php:38
+msgid "Enable/Disable option for sticky menu."
+msgstr ""
+
+#: inc/customizer/header/section-main-navigation.php:68
+msgid "Show/Hide option for search icon at primary menu."
+msgstr ""
+
+#: inc/customizer/header/section-notice-header.php:12
+msgid "Notice Section"
+msgstr ""
+
+#: inc/customizer/header/section-notice-header.php:31
+msgid "Notice Option"
+msgstr ""
+
+#: inc/customizer/header/section-notice-header.php:32
+msgid "Hide/show notice board section."
+msgstr ""
+
+#: inc/customizer/header/section-notice-header.php:51
+#: template-parts/header/header-notice.php:28
+msgid "Notices"
+msgstr ""
+
+#: inc/customizer/header/section-notice-header.php:60
+msgid "Notice Caption"
+msgstr ""
+
+#: inc/customizer/header/section-site-identity.php:22
+msgid "Display on branding section."
+msgstr ""
+
+#: inc/customizer/header/section-site-identity.php:27
+msgid "Widget Area"
+msgstr ""
+
+#: inc/customizer/header/section-site-identity.php:46
+msgid "Branding alignment"
+msgstr ""
+
+#: inc/customizer/header/section-site-identity.php:50
+#: inc/customizer/homepage/section-banner-slider.php:96
+msgid "Left"
+msgstr ""
+
+#: inc/customizer/header/section-site-identity.php:51
+#: inc/customizer/homepage/section-banner-slider.php:97
+msgid "Center"
+msgstr ""
+
+#: inc/customizer/header/section-site-identity.php:70
+msgid "Enable Branding?"
+msgstr ""
+
+#: inc/customizer/header/section-top-header.php:12
+msgid "Top Header"
+msgstr ""
+
+#: inc/customizer/header/section-top-header.php:36
+msgid "Top Header Section"
+msgstr ""
+
+#: inc/customizer/header/section-top-header.php:37
+msgid "Show/Hide option for top header section."
+msgstr ""
+
+#: inc/customizer/header/section-top-header.php:66
+msgid "Current Date"
+msgstr ""
+
+#: inc/customizer/header/section-top-header.php:67
+msgid "Show/Hide option for current date at top header section."
+msgstr ""
+
+#: inc/customizer/header/section-top-header.php:97
+msgid "Show/Hide option for social media icons at top header section."
+msgstr ""
+
+#: inc/customizer/homepage/panel-homepage.php:10
+msgid "Homepage Sections"
+msgstr ""
+
+#: inc/customizer/homepage/panel-homepage.php:11
+msgid "Homepage all sections goes here."
+msgstr ""
+
+#: inc/customizer/homepage/section-banner-slider.php:12
+msgid "Banner Slider"
+msgstr ""
+
+#: inc/customizer/homepage/section-banner-slider.php:32
+msgid "Select Slider Type"
+msgstr ""
+
+#: inc/customizer/homepage/section-banner-slider.php:38
+msgid ""
+"After changing slider type value may slider could not appear on frontend. "
+"So please publish it once and refresh(customizer) it. After that you can "
+"manage banner slider items and publish it."
+msgstr ""
+
+#: inc/customizer/homepage/section-banner-slider.php:56
+msgid "Primary Button"
+msgstr ""
+
+#: inc/customizer/homepage/section-banner-slider.php:59
+msgid "Secondary Button"
+msgstr ""
+
+#: inc/customizer/homepage/section-banner-slider.php:73
+msgid "Banner Slider Items"
+msgstr ""
+
+#: inc/customizer/homepage/section-banner-slider.php:77
+msgid "Add Slide"
+msgstr ""
+
+#: inc/customizer/homepage/section-banner-slider.php:78
+msgid "Banner Slide Item"
+msgstr ""
+
+#: inc/customizer/homepage/section-banner-slider.php:83
+msgid "Choose Post type item"
+msgstr ""
+
+#: inc/customizer/homepage/section-banner-slider.php:84
+msgid "Choose slider post type item."
+msgstr ""
+
+#: inc/customizer/homepage/section-banner-slider.php:93
+msgid "Description Alignment"
+msgstr ""
+
+#: inc/customizer/homepage/section-banner-slider.php:94
+msgid "Choose banner description alignment."
+msgstr ""
+
+#: inc/customizer/homepage/section-banner-slider.php:98
+msgid "Right"
+msgstr ""
+
+#: inc/customizer/homepage/section-banner-slider.php:103
+msgid "Primary Button Label"
+msgstr ""
+
+#: inc/customizer/homepage/section-banner-slider.php:104
+msgid "Please enter primary button label."
+msgstr ""
+
+#: inc/customizer/homepage/section-banner-slider.php:108
+msgid "Primary Button URL"
+msgstr ""
+
+#: inc/customizer/homepage/section-banner-slider.php:109
+msgid "Please enter primary button url."
+msgstr ""
+
+#: inc/customizer/homepage/section-banner-slider.php:113
+msgid "Primary Button Target"
+msgstr ""
+
+#: inc/customizer/homepage/section-banner-slider.php:114
+msgid "Please choose primary button target."
+msgstr ""
+
+#: inc/customizer/homepage/section-banner-slider.php:116
+#: inc/customizer/homepage/section-banner-slider.php:136
+msgid "Disabled"
+msgstr ""
+
+#: inc/customizer/homepage/section-banner-slider.php:117
+#: inc/customizer/homepage/section-banner-slider.php:137
+msgid "Open with same tab"
+msgstr ""
+
+#: inc/customizer/homepage/section-banner-slider.php:123
+msgid "Secondary Button Label"
+msgstr ""
+
+#: inc/customizer/homepage/section-banner-slider.php:124
+msgid "Please enter secondary button label."
+msgstr ""
+
+#: inc/customizer/homepage/section-banner-slider.php:128
+msgid "Secondary Button URL"
+msgstr ""
+
+#: inc/customizer/homepage/section-banner-slider.php:129
+msgid "Please enter secondary button url."
+msgstr ""
+
+#: inc/customizer/homepage/section-banner-slider.php:133
+msgid "Secondary Button Target"
+msgstr ""
+
+#: inc/customizer/homepage/section-banner-slider.php:134
+msgid "Please choose secondary button target."
+msgstr ""
+
+#: inc/customizer/homepage/section-banner-slider.php:157
+msgid "Read More Text"
+msgstr ""
+
+#: inc/customizer/homepage/section-banner-slider.php:177
+msgid "Transition Effect"
+msgstr ""
+
+#: inc/customizer/homepage/section-banner-slider.php:182
+#: inc/functions/sanitize-functions.php:72
+msgid "Fade"
+msgstr ""
+
+#: inc/customizer/homepage/section-banner-slider.php:183
+#: inc/functions/sanitize-functions.php:73
+msgid "Slide"
+msgstr ""
+
+#: inc/customizer/homepage/section-banner-slider.php:200
+msgid "Transition Delay"
+msgstr ""
+
+#: inc/customizer/homepage/section-banner-slider.php:201
+msgid "in seconds (default = 5)"
+msgstr ""
+
+#: inc/customizer/homepage/section-banner-slider.php:220
+msgid "Transition Duration"
+msgstr ""
+
+#: inc/customizer/homepage/section-banner-slider.php:221
+msgid "in seconds (default = 2)"
+msgstr ""
+
+#: inc/customizer/homepage/section-banner-slider.php:240
+msgid "Enable Description"
+msgstr ""
+
+#: inc/customizer/homepage/section-banner-slider.php:259
+msgid "Arrow layout"
+msgstr ""
+
+#: inc/customizer/homepage/section-banner-slider.php:282
+msgid "Enable Autoplay"
+msgstr ""
+
+#: inc/customizer/homepage/section-banner-slider.php:301
+msgid "Enable Overlay"
+msgstr ""
+
+#: inc/customizer/homepage/section-banner-slider.php:320
+#: inc/widgets/class-tcy-default-tabbed-widget.php:68
+msgid "Thumbnail Size"
+msgstr ""
+
+#: inc/customizer/homepage/section-main-services.php:14
+msgid "Main Services"
+msgstr ""
+
+#: inc/customizer/homepage/section-main-services.php:33
+msgid "Number of Column"
+msgstr ""
+
+#: inc/customizer/homepage/section-main-services.php:38
+msgid "One Column ( Full Width )"
+msgstr ""
+
+#: inc/customizer/homepage/section-main-services.php:39
+msgid "Two Column ( Full Width )"
+msgstr ""
+
+#: inc/customizer/homepage/section-main-services.php:40
+msgid "Three Column ( Full Width )"
+msgstr ""
+
+#: inc/customizer/homepage/section-main-services.php:41
+msgid "Four Column ( Full Width )"
+msgstr ""
+
+#: inc/customizer/homepage/section-main-services.php:57
+msgid "Overlap Top Part"
+msgstr ""
+
+#: inc/customizer/homepage/section-main-services.php:91
+msgid "Service Items"
+msgstr ""
+
+#: inc/customizer/homepage/section-main-services.php:95
+msgid "Add Service"
+msgstr ""
+
+#: inc/customizer/homepage/section-main-services.php:96
+msgid "Service Item"
+msgstr ""
+
+#: inc/customizer/homepage/section-main-services.php:101
+msgid "Choose Item"
+msgstr ""
+
+#: inc/customizer/homepage/section-main-services.php:102
+msgid "Choose post/page to display features services parts."
+msgstr ""
+
+#: inc/customizer/homepage/section-main-services.php:107
+msgid "Font Color"
+msgstr ""
+
+#: inc/customizer/homepage/section-main-services.php:108
+msgid "Choose service font color for service block."
+msgstr ""
+
+#: inc/customizer/homepage/section-main-services.php:112
+msgid "Background Color"
+msgstr ""
+
+#: inc/customizer/homepage/section-main-services.php:113
+msgid "Choose background color for service block."
+msgstr ""
+
+#: inc/customizer/homepage/section-main-services.php:117
+msgid "Service Icon"
+msgstr ""
+
+#: inc/customizer/homepage/section-main-services.php:118
+msgid "Please choose service icon."
+msgstr ""
+
+#: inc/customizer/options/section-global-settings.php:10
+msgid "Global Settings"
+msgstr ""
+
+#: inc/customizer/options/section-global-settings.php:11
+msgid "Choose a site to display your website more effectively."
+msgstr ""
+
+#: inc/customizer/options/section-global-settings.php:29
+msgid "Site Layout"
+msgstr ""
+
+#: inc/customizer/options/section-global-settings.php:32
+msgid "Full Width"
+msgstr ""
+
+#: inc/customizer/options/section-global-settings.php:33
+msgid "Box Width"
+msgstr ""
+
+#: inc/customizer/options/section-image-settings.php:10
+msgid "Image Settings"
+msgstr ""
+
+#: inc/customizer/options/section-image-settings.php:11
+msgid "You can manage image related settings here."
+msgstr ""
+
+#: inc/customizer/options/section-image-settings.php:30
+msgid "Remove image src set?"
+msgstr ""
+
+#: inc/customizer/options/section-website-preloader.php:10
+msgid "Preloader for Website"
+msgstr ""
+
+#: inc/customizer/options/section-website-preloader.php:11
+msgid "Choose a Image For Website Preloader"
+msgstr ""
+
+#: inc/customizer/options/section-website-preloader.php:31
+msgid "Upload preloader image"
+msgstr ""
+
+#: inc/customizer/options/section-widget-settings.php:11
+msgid "Widget Settings"
+msgstr ""
+
+#: inc/customizer/options/section-widget-settings.php:12
+msgid "Manage settings of widget from here."
+msgstr ""
+
+#: inc/customizer/options/section-widget-settings.php:31
+msgid "Widget title layout."
+msgstr ""
+
+#: inc/customizer/templates/template-archive-page.php:25
+msgid "Archive Layouts"
+msgstr ""
+
+#: inc/customizer/templates/template-archive-page.php:30
+#: inc/customizer/templates/template-blog-page.php:30
+#: inc/customizer/templates/template-search-page.php:30
+msgid "Classic"
+msgstr ""
+
+#: inc/customizer/templates/template-archive-page.php:34
+#: inc/customizer/templates/template-blog-page.php:34
+#: inc/customizer/templates/template-search-page.php:34
+msgid "Grid"
+msgstr ""
+
+#: inc/customizer/templates/template-archive-page.php:38
+#: inc/customizer/templates/template-blog-page.php:38
+#: inc/customizer/templates/template-search-page.php:38
+msgid "List"
+msgstr ""
+
+#: inc/customizer/templates/template-blog-page.php:25
+msgid "Blog Layouts"
+msgstr ""
+
+#: inc/customizer/templates/template-home-page.php:18
+msgid "Homepage template options"
+msgstr ""
+
+#: inc/customizer/templates/template-home-page.php:19
+msgid "Choose option for Static Home Page Template."
+msgstr ""
+
+#: inc/customizer/templates/template-home-page.php:22
+msgid "Widgetize"
+msgstr ""
+
+#: inc/customizer/templates/template-search-page.php:25
+msgid "Search Layouts"
+msgstr ""
+
+#: inc/customizer/upsell/hamroclass-upsell-section.php:13
+#: inc/library/class-hamroclass-admin.php:319
+msgid "HamroClass Pro"
+msgstr ""
+
+#: inc/customizer/upsell/hamroclass-upsell-section.php:14
+#: inc/library/class-hamroclass-admin.php:480
+msgid "View Pro"
+msgstr ""
+
+#: inc/functions/template-functions.php:257
+msgid "Select Category"
+msgstr ""
+
+#: inc/functions/template-tags.php:66
+#. translators: %s: post title
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/functions/template-tags.php:94
+#. translators: 1: list of tags.
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/functions/template-tags.php:106
+#: template-parts/single/content-page.php:41
+#. translators: %s: Name of current post. Only visible to screen readers
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/hooks/plugins/theeventcalendar.php:54
+msgid "Layout Three"
+msgstr ""
+
+#: inc/hooks/plugins/theeventcalendar.php:58
+msgid "Event Layout:"
+msgstr ""
+
+#: inc/hooks/setup.php:157
+msgid "Top Menu"
+msgstr ""
+
+#: inc/hooks/setup.php:158
+msgid "Primary Menu"
+msgstr ""
+
+#: inc/hooks/setup.php:159
+msgid "Footer Menu"
+msgstr ""
+
+#: inc/hooks/tgmpa.php:15
+msgid "Century ToolKit"
+msgstr ""
+
+#: inc/hooks/tgmpa.php:20
+msgid "The Event Calendar"
+msgstr ""
+
+#: inc/hooks/tgmpa.php:25
+msgid "Learn Press"
+msgstr ""
+
+#: inc/hooks/tgmpa.php:30 inc/library/class-hamroclass-admin.php:540
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/library/class-hamroclass-admin.php:38
+#: inc/library/class-hamroclass-admin.php:127
+msgid "About"
+msgstr ""
+
+#: inc/library/class-hamroclass-admin.php:81
+msgid "Action failed. Please refresh the page and retry."
+msgstr ""
+
+#: inc/library/class-hamroclass-admin.php:85
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: inc/library/class-hamroclass-admin.php:101
+msgid "Dismiss"
+msgstr ""
+
+#: inc/library/class-hamroclass-admin.php:104
+#. translators: 1: anchor tag start, 2: anchor tag end
+msgid ""
+"Welcome! Thank you for choosing HamroClass! To fully take advantage of the "
+"best our theme can offer please make sure you visit our %1$swelcome "
+"page%1$s."
+msgstr ""
+
+#: inc/library/class-hamroclass-admin.php:108
+msgid "Get started with HamroClass"
+msgstr ""
+
+#: inc/library/class-hamroclass-admin.php:142
+msgid "Theme Info"
+msgstr ""
+
+#: inc/library/class-hamroclass-admin.php:146
+msgid "View Demo"
+msgstr ""
+
+#: inc/library/class-hamroclass-admin.php:150
+msgid "Rate this theme"
+msgstr ""
+
+#: inc/library/class-hamroclass-admin.php:153
+msgid "View Pro Version"
+msgstr ""
+
+#: inc/library/class-hamroclass-admin.php:169
+msgid "Changelog"
+msgstr ""
+
+#: inc/library/class-hamroclass-admin.php:207
+msgid "Theme Customizer"
+msgstr ""
+
+#: inc/library/class-hamroclass-admin.php:208
+msgid "All Theme Options are available via Customize screen."
+msgstr ""
+
+#: inc/library/class-hamroclass-admin.php:210
+msgid "Customize"
+msgstr ""
+
+#: inc/library/class-hamroclass-admin.php:215
+#: inc/library/class-hamroclass-admin.php:218
+msgid "Documentation"
+msgstr ""
+
+#: inc/library/class-hamroclass-admin.php:216
+msgid "Please view our documentation page to setup the theme."
+msgstr ""
+
+#: inc/library/class-hamroclass-admin.php:223
+msgid "Got theme support question?"
+msgstr ""
+
+#: inc/library/class-hamroclass-admin.php:224
+msgid "Please put it in our dedicated support forum."
+msgstr ""
+
+#: inc/library/class-hamroclass-admin.php:226
+#: inc/library/class-hamroclass-admin.php:324
+msgid "Support"
+msgstr ""
+
+#: inc/library/class-hamroclass-admin.php:231
+msgid "Any question about this theme or us?"
+msgstr ""
+
+#: inc/library/class-hamroclass-admin.php:232
+msgid "Please send it via our sales contact page."
+msgstr ""
+
+#: inc/library/class-hamroclass-admin.php:234
+msgid "Contact Page"
+msgstr ""
+
+#: inc/library/class-hamroclass-admin.php:241
+#: inc/library/class-hamroclass-admin.php:250
+msgid "Translate"
+msgstr ""
+
+#: inc/library/class-hamroclass-admin.php:245
+msgid "Click below to translate this theme into your own language."
+msgstr ""
+
+#: inc/library/class-hamroclass-admin.php:262
+msgid "Return to Updates"
+msgstr ""
+
+#: inc/library/class-hamroclass-admin.php:262
+msgid "Return to Dashboard &rarr; Updates"
+msgstr ""
+
+#: inc/library/class-hamroclass-admin.php:265
+msgid "Go to Dashboard &rarr; Home"
+msgstr ""
+
+#: inc/library/class-hamroclass-admin.php:265
+msgid "Go to Dashboard"
+msgstr ""
+
+#: inc/library/class-hamroclass-admin.php:283
+msgid "View changelog below:"
+msgstr ""
+
+#: inc/library/class-hamroclass-admin.php:311
+msgid "Upgrade to PRO version for more awesome features."
+msgstr ""
+
+#: inc/library/class-hamroclass-admin.php:316
+msgid "Features"
+msgstr ""
+
+#: inc/library/class-hamroclass-admin.php:318
+msgid "HamroClass"
+msgstr ""
+
+#: inc/library/class-hamroclass-admin.php:325
+msgid "Forum"
+msgstr ""
+
+#: inc/library/class-hamroclass-admin.php:326
+msgid "Forum + Emails/Support Ticket"
+msgstr ""
+
+#: inc/library/class-hamroclass-admin.php:329
+msgid "Category color options"
+msgstr ""
+
+#: inc/library/class-hamroclass-admin.php:334
+msgid "Additional color options"
+msgstr ""
+
+#: inc/library/class-hamroclass-admin.php:339
+msgid "Primary color option"
+msgstr ""
+
+#: inc/library/class-hamroclass-admin.php:344
+msgid "Font size options"
+msgstr ""
+
+#: inc/library/class-hamroclass-admin.php:349
+msgid "Google fonts options"
+msgstr ""
+
+#: inc/library/class-hamroclass-admin.php:351
+msgid "500+"
+msgstr ""
+
+#: inc/library/class-hamroclass-admin.php:354
+msgid "Custom widgets"
+msgstr ""
+
+#: inc/library/class-hamroclass-admin.php:359
+msgid "Social icons"
+msgstr ""
+
+#: inc/library/class-hamroclass-admin.php:364
+msgid "Social sharing"
+msgstr ""
+
+#: inc/library/class-hamroclass-admin.php:369
+msgid "Site layout option"
+msgstr ""
+
+#: inc/library/class-hamroclass-admin.php:374
+msgid "Options in breaking news"
+msgstr ""
+
+#: inc/library/class-hamroclass-admin.php:379
+msgid "Change read more text"
+msgstr ""
+
+#: inc/library/class-hamroclass-admin.php:384
+msgid "Related posts"
+msgstr ""
+
+#: inc/library/class-hamroclass-admin.php:389
+msgid "Author biography"
+msgstr ""
+
+#: inc/library/class-hamroclass-admin.php:394
+msgid "Footer copyright editor"
+msgstr ""
+
+#: inc/library/class-hamroclass-admin.php:399
+msgid "728x90 Advertisement"
+msgstr ""
+
+#: inc/library/class-hamroclass-admin.php:404
+msgid "Featured category slider"
+msgstr ""
+
+#: inc/library/class-hamroclass-admin.php:409
+msgid "Random posts widget"
+msgstr ""
+
+#: inc/library/class-hamroclass-admin.php:414
+msgid "Tabbed widget"
+msgstr ""
+
+#: inc/library/class-hamroclass-admin.php:419
+msgid "Videos"
+msgstr ""
+
+#: inc/library/class-hamroclass-admin.php:425
+msgid "WooCommerce compatible"
+msgstr ""
+
+#: inc/library/class-hamroclass-admin.php:430
+msgid "Multiple header options"
+msgstr ""
+
+#: inc/library/class-hamroclass-admin.php:435
+msgid "Readmore flying card"
+msgstr ""
+
+#: inc/library/class-hamroclass-admin.php:440
+msgid "Weather widget"
+msgstr ""
+
+#: inc/library/class-hamroclass-admin.php:445
+msgid "Currency converter widget"
+msgstr ""
+
+#: inc/library/class-hamroclass-admin.php:450
+msgid "Category enable/disable option"
+msgstr ""
+
+#: inc/library/class-hamroclass-admin.php:455
+msgid "Reading indicator option"
+msgstr ""
+
+#: inc/library/class-hamroclass-admin.php:460
+msgid "Lightbox support"
+msgstr ""
+
+#: inc/library/class-hamroclass-admin.php:465
+#: inc/widgets/class-tcy-call-to-action-widget.php:22
+#: inc/widgets/class-tcy-page-block-widget.php:22
+msgid "Call to action widget"
+msgstr ""
+
+#: inc/library/class-hamroclass-admin.php:470
+msgid "Contact us template"
+msgstr ""
+
+#: inc/library/class-hamroclass-admin.php:529
+msgid "This theme recommends following plugins:"
+msgstr ""
+
+#: inc/library/class-hamroclass-admin.php:533
+#: inc/library/class-hamroclass-admin.php:537
+msgid " by ThemeCentury"
+msgstr ""
+
+#: inc/library/class-hamroclass-admin.php:536
+msgid "Easy Social Sharing"
+msgstr ""
+
+#: inc/library/class-hamroclass-admin.php:542
+msgid "WP-PageNavi"
+msgstr ""
+
+#: inc/library/class-hamroclass-admin.php:544
+msgid "WooCommerce"
+msgstr ""
+
+#: inc/library/class-hamroclass-admin.php:547
+msgid "Polylang"
+msgstr ""
+
+#: inc/library/class-hamroclass-admin.php:548
+#: inc/library/class-hamroclass-admin.php:553
+msgid "Fully Compatible in Pro Version"
+msgstr ""
+
+#: inc/library/class-hamroclass-admin.php:552
+msgid "WPML"
+msgstr ""
+
+#: inc/library/tgm-plugin-activation/class-tgm-plugin-activation.php:327
+msgid "Install Recommended Plugins"
+msgstr ""
+
+#: inc/library/tgm-plugin-activation/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/library/tgm-plugin-activation/class-tgm-plugin-activation.php:330
+#. translators: %s: plugin name.
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/library/tgm-plugin-activation/class-tgm-plugin-activation.php:332
+#. translators: %s: plugin name.
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/library/tgm-plugin-activation/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/library/tgm-plugin-activation/class-tgm-plugin-activation.php:370
+#. translators: 1: plugin name(s).
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/library/tgm-plugin-activation/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/library/tgm-plugin-activation/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/library/tgm-plugin-activation/class-tgm-plugin-activation.php:385
+msgid "Return to Recommended Plugins Installer"
+msgstr ""
+
+#: inc/library/tgm-plugin-activation/class-tgm-plugin-activation.php:386
+#: inc/library/tgm-plugin-activation/class-tgm-plugin-activation.php:827
+#: inc/library/tgm-plugin-activation/class-tgm-plugin-activation.php:2533
+#: inc/library/tgm-plugin-activation/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/library/tgm-plugin-activation/class-tgm-plugin-activation.php:387
+#: inc/library/tgm-plugin-activation/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/library/tgm-plugin-activation/class-tgm-plugin-activation.php:388
+#: inc/library/tgm-plugin-activation/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/library/tgm-plugin-activation/class-tgm-plugin-activation.php:390
+#. translators: 1: plugin name.
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/library/tgm-plugin-activation/class-tgm-plugin-activation.php:392
+#. translators: 1: plugin name.
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/library/tgm-plugin-activation/class-tgm-plugin-activation.php:394
+#. translators: 1: dashboard link.
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/library/tgm-plugin-activation/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/library/tgm-plugin-activation/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/library/tgm-plugin-activation/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/library/tgm-plugin-activation/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: inc/library/tgm-plugin-activation/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/library/tgm-plugin-activation/class-tgm-plugin-activation.php:934
+#: inc/library/tgm-plugin-activation/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/library/tgm-plugin-activation/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/library/tgm-plugin-activation/class-tgm-plugin-activation.php:1982
+#. translators: %s: version number
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/library/tgm-plugin-activation/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: inc/library/tgm-plugin-activation/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: inc/library/tgm-plugin-activation/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/library/tgm-plugin-activation/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: inc/library/tgm-plugin-activation/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/library/tgm-plugin-activation/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: inc/library/tgm-plugin-activation/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/library/tgm-plugin-activation/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: inc/library/tgm-plugin-activation/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/library/tgm-plugin-activation/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: inc/library/tgm-plugin-activation/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#: inc/library/tgm-plugin-activation/class-tgm-plugin-activation.php:2392
+#. translators: 1: number of plugins.
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/library/tgm-plugin-activation/class-tgm-plugin-activation.php:2396
+#. translators: 1: number of plugins.
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/library/tgm-plugin-activation/class-tgm-plugin-activation.php:2400
+#. translators: 1: number of plugins.
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/library/tgm-plugin-activation/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: inc/library/tgm-plugin-activation/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/library/tgm-plugin-activation/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: inc/library/tgm-plugin-activation/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/library/tgm-plugin-activation/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: inc/library/tgm-plugin-activation/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: inc/library/tgm-plugin-activation/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: inc/library/tgm-plugin-activation/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: inc/library/tgm-plugin-activation/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#: inc/library/tgm-plugin-activation/class-tgm-plugin-activation.php:2603
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/library/tgm-plugin-activation/class-tgm-plugin-activation.php:2608
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/library/tgm-plugin-activation/class-tgm-plugin-activation.php:2614
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/library/tgm-plugin-activation/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/library/tgm-plugin-activation/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: inc/library/tgm-plugin-activation/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: inc/library/tgm-plugin-activation/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: inc/library/tgm-plugin-activation/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/library/tgm-plugin-activation/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/library/tgm-plugin-activation/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/library/tgm-plugin-activation/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/library/tgm-plugin-activation/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/library/tgm-plugin-activation/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/library/tgm-plugin-activation/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/library/tgm-plugin-activation/class-tgm-plugin-activation.php:3498
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/library/tgm-plugin-activation/class-tgm-plugin-activation.php:3501
+#. translators: 1: plugin name, 2: error message.
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/library/tgm-plugin-activation/class-tgm-plugin-activation.php:3503
+#. translators: 1: plugin name.
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/library/tgm-plugin-activation/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take "
+"a while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/library/tgm-plugin-activation/class-tgm-plugin-activation.php:3509
+#. translators: 1: plugin name.
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/library/tgm-plugin-activation/class-tgm-plugin-activation.php:3509
+#: inc/library/tgm-plugin-activation/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: inc/library/tgm-plugin-activation/class-tgm-plugin-activation.php:3509
+#: inc/library/tgm-plugin-activation/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: inc/library/tgm-plugin-activation/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/library/tgm-plugin-activation/class-tgm-plugin-activation.php:3512
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/library/tgm-plugin-activation/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/library/tgm-plugin-activation/class-tgm-plugin-activation.php:3517
+#. translators: 1: plugin name.
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/library/tgm-plugin-activation/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/library/tgm-plugin-activation/class-tgm-plugin-activation.php:3520
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/parts/footer.php:87
+#. translators: 1: Theme name, 2: Theme author.
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: inc/widgets/class-tcy-block-posts-widget.php:21
+msgid "Displays block posts from selected category in different layouts."
+msgstr ""
+
+#: inc/widgets/class-tcy-block-posts-widget.php:23
+msgid "HC - Block Posts"
+msgstr ""
+
+#: inc/widgets/class-tcy-block-posts-widget.php:44
+msgid "Block Posts"
+msgstr ""
+
+#: inc/widgets/class-tcy-block-posts-widget.php:45
+#: inc/widgets/class-tcy-featured-blocks-widget.php:47
+#: inc/widgets/class-tcy-site-carousel-widget.php:47
+#: inc/widgets/class-tcy-testimonial-section-widget.php:48
+msgid "Block title"
+msgstr ""
+
+#: inc/widgets/class-tcy-block-posts-widget.php:46
+#: inc/widgets/class-tcy-featured-blocks-widget.php:48
+#: inc/widgets/class-tcy-our-team-widget.php:46
+#: inc/widgets/class-tcy-site-carousel-widget.php:48
+#: inc/widgets/class-tcy-testimonial-section-widget.php:50
+msgid "Enter your block title. (Optional - Leave blank to hide title.)"
+msgstr ""
+
+#: inc/widgets/class-tcy-block-posts-widget.php:78
+msgid "Block Category"
+msgstr ""
+
+#: inc/widgets/class-tcy-block-posts-widget.php:85
+msgid "Tab Category List"
+msgstr ""
+
+#: inc/widgets/class-tcy-block-posts-widget.php:90
+msgid "Block Category List"
+msgstr ""
+
+#: inc/widgets/class-tcy-block-posts-widget.php:91
+msgid "Others Category List"
+msgstr ""
+
+#: inc/widgets/class-tcy-block-posts-widget.php:121
+msgid "Tab Categories"
+msgstr ""
+
+#: inc/widgets/class-tcy-block-posts-widget.php:129
+msgid "All Tab Label"
+msgstr ""
+
+#: inc/widgets/class-tcy-block-posts-widget.php:141
+msgid "Block Layouts"
+msgstr ""
+
+#: inc/widgets/class-tcy-block-posts-widget.php:145
+msgid "Layout 1 - (LeftBig - Right list)"
+msgstr ""
+
+#: inc/widgets/class-tcy-block-posts-widget.php:146
+msgid "Layout 2 - (TwoBit - List bottom)"
+msgstr ""
+
+#: inc/widgets/class-tcy-block-posts-widget.php:147
+msgid "Layout 3 - (BigTop - three small)"
+msgstr ""
+
+#: inc/widgets/class-tcy-block-posts-widget.php:148
+msgid "Layout 4 - (Alternate Grid)"
+msgstr ""
+
+#: inc/widgets/class-tcy-block-posts-widget.php:149
+msgid "Layout 5 - (Blog Style)"
+msgstr ""
+
+#: inc/widgets/class-tcy-block-posts-widget.php:154
+msgid "Large Image Size"
+msgstr ""
+
+#: inc/widgets/class-tcy-block-posts-widget.php:162
+msgid "Large Description Length"
+msgstr ""
+
+#: inc/widgets/class-tcy-block-posts-widget.php:165
+msgid "Enter the large description length in character."
+msgstr ""
+
+#: inc/widgets/class-tcy-block-posts-widget.php:169
+#: inc/widgets/class-tcy-site-carousel-widget.php:111
+msgid "Thumbnail Image Size"
+msgstr ""
+
+#: inc/widgets/class-tcy-block-posts-widget.php:177
+msgid "Small Description Length"
+msgstr ""
+
+#: inc/widgets/class-tcy-block-posts-widget.php:180
+#: inc/widgets/class-tcy-site-carousel-widget.php:107
+msgid "Enter the short description length in character."
+msgstr ""
+
+#: inc/widgets/class-tcy-call-to-action-widget.php:24
+msgid "HC - Call to Action"
+msgstr ""
+
+#: inc/widgets/class-tcy-call-to-action-widget.php:45
+msgid "Enter the title"
+msgstr ""
+
+#: inc/widgets/class-tcy-call-to-action-widget.php:78
+msgid "CTA Heading"
+msgstr ""
+
+#: inc/widgets/class-tcy-call-to-action-widget.php:80
+msgid "Enter your heading text."
+msgstr ""
+
+#: inc/widgets/class-tcy-call-to-action-widget.php:84
+msgid "Select background color"
+msgstr ""
+
+#: inc/widgets/class-tcy-call-to-action-widget.php:89
+msgid "Select background image"
+msgstr ""
+
+#: inc/widgets/class-tcy-call-to-action-widget.php:94
+msgid "Enable parallax"
+msgstr ""
+
+#: inc/widgets/class-tcy-call-to-action-widget.php:99
+msgid "Description"
+msgstr ""
+
+#: inc/widgets/class-tcy-call-to-action-widget.php:102
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod "
+"tempor incididunt ut labore et dolore magna aliqua. Lobortis scelerisque "
+"fermentum dui faucibus in. Mollis nunc sed id semper risus. Tincidunt "
+"praesent semper feugiat nibh sed. Massa enim nec dui nunc mattis enim ut."
+msgstr ""
+
+#: inc/widgets/class-tcy-call-to-action-widget.php:106
+msgid "Button Text"
+msgstr ""
+
+#: inc/widgets/class-tcy-call-to-action-widget.php:108
+msgid "View More"
+msgstr ""
+
+#: inc/widgets/class-tcy-call-to-action-widget.php:112
+msgid "Open in new tab"
+msgstr ""
+
+#: inc/widgets/class-tcy-call-to-action-widget.php:131
+msgid "Button Link"
+msgstr ""
+
+#: inc/widgets/class-tcy-call-to-action-widget.php:143
+msgid "CTA Layout"
+msgstr ""
+
+#: inc/widgets/class-tcy-contact-form-widget.php:21
+msgid "Display contact form with beautiful layout."
+msgstr ""
+
+#: inc/widgets/class-tcy-contact-form-widget.php:23
+msgid "HC - Contact Form"
+msgstr ""
+
+#: inc/widgets/class-tcy-contact-form-widget.php:44
+msgid "Enter contact form title."
+msgstr ""
+
+#: inc/widgets/class-tcy-contact-form-widget.php:45
+#: inc/widgets/class-tcy-course-listing-widget.php:44
+#: inc/widgets/class-tcy-course-search-widget.php:44
+#: inc/widgets/class-tcy-our-team-widget.php:44
+#: inc/widgets/class-tcy-video-block-widget.php:44
+msgid "Section Title"
+msgstr ""
+
+#: inc/widgets/class-tcy-contact-form-widget.php:46
+#: inc/widgets/class-tcy-course-listing-widget.php:46
+#: inc/widgets/class-tcy-course-search-widget.php:46
+#: inc/widgets/class-tcy-video-block-widget.php:46
+msgid "Enter your block title"
+msgstr ""
+
+#: inc/widgets/class-tcy-contact-form-widget.php:51
+msgid "Form Shortcode"
+msgstr ""
+
+#: inc/widgets/class-tcy-contact-form-widget.php:53
+#: inc/widgets/class-tcy-course-listing-widget.php:53
+msgid "Please add shortcode of contact form here."
+msgstr ""
+
+#: inc/widgets/class-tcy-contact-form-widget.php:57
+#: inc/widgets/class-tcy-course-listing-widget.php:57
+#: inc/widgets/class-tcy-page-block-widget.php:76
+msgid "Background color"
+msgstr ""
+
+#: inc/widgets/class-tcy-contact-form-widget.php:59
+#: inc/widgets/class-tcy-course-listing-widget.php:59
+msgid "Please add a background color for this section."
+msgstr ""
+
+#: inc/widgets/class-tcy-contact-form-widget.php:63
+#: inc/widgets/class-tcy-course-search-widget.php:57
+#: inc/widgets/class-tcy-page-block-widget.php:82
+#: inc/widgets/class-tcy-testimonial-section-widget.php:83
+msgid "Background Image"
+msgstr ""
+
+#: inc/widgets/class-tcy-contact-form-widget.php:65
+#: inc/widgets/class-tcy-course-search-widget.php:59
+#: inc/widgets/class-tcy-video-block-widget.php:74
+msgid "Please add a background image for this section."
+msgstr ""
+
+#: inc/widgets/class-tcy-course-listing-widget.php:21
+msgid "Display courses with beautiful layout."
+msgstr ""
+
+#: inc/widgets/class-tcy-course-listing-widget.php:23
+msgid "HC - Course Listing"
+msgstr ""
+
+#: inc/widgets/class-tcy-course-listing-widget.php:45
+msgid "Our Courses"
+msgstr ""
+
+#: inc/widgets/class-tcy-course-listing-widget.php:51
+#: inc/widgets/class-tcy-course-search-widget.php:51
+#: inc/widgets/class-tcy-video-block-widget.php:51
+msgid "Sub Title"
+msgstr ""
+
+#: inc/widgets/class-tcy-course-listing-widget.php:63
+msgid "No of courses"
+msgstr ""
+
+#: inc/widgets/class-tcy-course-listing-widget.php:66
+msgid "Please choose no of courses."
+msgstr ""
+
+#: inc/widgets/class-tcy-course-listing-widget.php:136
+msgid "No course found."
+msgstr ""
+
+#: inc/widgets/class-tcy-course-search-widget.php:21
+#: inc/widgets/class-tcy-video-block-widget.php:21
+msgid "Add video block from widget on frontend widgetarea."
+msgstr ""
+
+#: inc/widgets/class-tcy-course-search-widget.php:23
+msgid "HC - Course Search"
+msgstr ""
+
+#: inc/widgets/class-tcy-course-search-widget.php:45
+#: inc/widgets/class-tcy-course-search-widget.php:129
+msgid "Search Courses"
+msgstr ""
+
+#: inc/widgets/class-tcy-course-search-widget.php:52
+#: inc/widgets/class-tcy-video-block-widget.php:53
+msgid "Enter your sub title"
+msgstr ""
+
+#: inc/widgets/class-tcy-course-search-widget.php:121
+msgid "All Courses"
+msgstr ""
+
+#: inc/widgets/class-tcy-course-search-widget.php:127
+msgid "Courses Keyword"
+msgstr ""
+
+#: inc/widgets/class-tcy-default-tabbed-widget.php:23
+msgid "A widget shows recent posts and comment in tabbed layout."
+msgstr ""
+
+#: inc/widgets/class-tcy-default-tabbed-widget.php:25
+msgid "HC - Default Tabbed"
+msgstr ""
+
+#: inc/widgets/class-tcy-default-tabbed-widget.php:47
+msgid "Latest Post Accordion"
+msgstr ""
+
+#: inc/widgets/class-tcy-default-tabbed-widget.php:52
+msgid "Latest Posts Tab"
+msgstr ""
+
+#: inc/widgets/class-tcy-default-tabbed-widget.php:55
+msgid "Latest Tab title"
+msgstr ""
+
+#: inc/widgets/class-tcy-default-tabbed-widget.php:55
+#: inc/widgets/class-tcy-default-tabbed-widget.php:132
+msgid "Latest"
+msgstr ""
+
+#: inc/widgets/class-tcy-default-tabbed-widget.php:58
+msgid "No of latest post."
+msgstr ""
+
+#: inc/widgets/class-tcy-default-tabbed-widget.php:62
+msgid "Excerpt Length"
+msgstr ""
+
+#: inc/widgets/class-tcy-default-tabbed-widget.php:79
+msgid "Comments Accordion"
+msgstr ""
+
+#: inc/widgets/class-tcy-default-tabbed-widget.php:84
+msgid "Comments Tab"
+msgstr ""
+
+#: inc/widgets/class-tcy-default-tabbed-widget.php:88
+msgid "Comments Tab title"
+msgstr ""
+
+#: inc/widgets/class-tcy-default-tabbed-widget.php:89
+#: inc/widgets/class-tcy-default-tabbed-widget.php:138
+msgid "Comments"
+msgstr ""
+
+#: inc/widgets/class-tcy-default-tabbed-widget.php:93
+msgid "No of comments."
+msgstr ""
+
+#: inc/widgets/class-tcy-default-tabbed-widget.php:96
+msgid "Comment Length"
+msgstr ""
+
+#: inc/widgets/class-tcy-default-tabbed-widget.php:99
+msgid "Comment Image Size(in px)."
+msgstr ""
+
+#: inc/widgets/class-tcy-default-tabbed-widget.php:199
+msgid "&nbsp;commented on"
+msgstr ""
+
+#: inc/widgets/class-tcy-featured-blocks-widget.php:23
+msgid "Displays featured posts from selected categories in different layouts."
+msgstr ""
+
+#: inc/widgets/class-tcy-featured-blocks-widget.php:25
+msgid "HC - Featured Posts"
+msgstr ""
+
+#: inc/widgets/class-tcy-featured-blocks-widget.php:80
+#: inc/widgets/class-tcy-site-carousel-widget.php:80
+msgid "Block Categories"
+msgstr ""
+
+#: inc/widgets/class-tcy-featured-blocks-widget.php:87
+msgid "Show Author"
+msgstr ""
+
+#: inc/widgets/class-tcy-featured-blocks-widget.php:95
+msgid "Show Post Date"
+msgstr ""
+
+#: inc/widgets/class-tcy-featured-blocks-widget.php:108
+msgid "Image Size"
+msgstr ""
+
+#: inc/widgets/class-tcy-featured-blocks-widget.php:117
+msgid "Show Description?"
+msgstr ""
+
+#: inc/widgets/class-tcy-featured-blocks-widget.php:119
+msgid "Check to show short description."
+msgstr ""
+
+#: inc/widgets/class-tcy-featured-blocks-widget.php:127
+msgid ""
+"Choose excerpt length in character. default length description length is "
+"150. you can set zero if you want to hide description."
+msgstr ""
+
+#: inc/widgets/class-tcy-our-team-widget.php:21
+msgid "Displays our team from selected category in different layouts."
+msgstr ""
+
+#: inc/widgets/class-tcy-our-team-widget.php:23
+msgid "HC - Our Team"
+msgstr ""
+
+#: inc/widgets/class-tcy-our-team-widget.php:45
+msgid "Our Teams"
+msgstr ""
+
+#: inc/widgets/class-tcy-our-team-widget.php:78
+msgid "Our Team List"
+msgstr ""
+
+#: inc/widgets/class-tcy-our-team-widget.php:80
+msgid "To add team block click to add icon."
+msgstr ""
+
+#: inc/widgets/class-tcy-our-team-widget.php:82
+msgid "Team details"
+msgstr ""
+
+#: inc/widgets/class-tcy-our-team-widget.php:83
+msgid "Add Team Member"
+msgstr ""
+
+#: inc/widgets/class-tcy-our-team-widget.php:86
+msgid "Team One"
+msgstr ""
+
+#: inc/widgets/class-tcy-our-team-widget.php:87
+#: inc/widgets/class-tcy-testimonial-section-widget.php:115
+msgid "Position One"
+msgstr ""
+
+#: inc/widgets/class-tcy-our-team-widget.php:90
+#: inc/widgets/class-tcy-our-team-widget.php:97
+#: inc/widgets/class-tcy-our-team-widget.php:104
+#: inc/widgets/class-tcy-testimonial-section-widget.php:116
+#: inc/widgets/class-tcy-testimonial-section-widget.php:122
+#: inc/widgets/class-tcy-testimonial-section-widget.php:128
+#: inc/widgets/class-tcy-testimonial-section-widget.php:134
+msgid ""
+"Lorem ipsum is placeholder text commonly used in the graphic, print, and "
+"publishing industries for previewing layouts and visual mockups."
+msgstr ""
+
+#: inc/widgets/class-tcy-our-team-widget.php:93
+msgid "Team Two"
+msgstr ""
+
+#: inc/widgets/class-tcy-our-team-widget.php:94
+#: inc/widgets/class-tcy-testimonial-section-widget.php:121
+msgid "Position Two"
+msgstr ""
+
+#: inc/widgets/class-tcy-our-team-widget.php:100
+msgid "Team Three"
+msgstr ""
+
+#: inc/widgets/class-tcy-our-team-widget.php:101
+#: inc/widgets/class-tcy-testimonial-section-widget.php:127
+msgid "Position Three"
+msgstr ""
+
+#: inc/widgets/class-tcy-our-team-widget.php:110
+msgid "Full Name"
+msgstr ""
+
+#: inc/widgets/class-tcy-our-team-widget.php:116
+msgid "Position"
+msgstr ""
+
+#: inc/widgets/class-tcy-our-team-widget.php:122
+msgid "Our Team Image"
+msgstr ""
+
+#: inc/widgets/class-tcy-our-team-widget.php:128
+msgid "Our Team Link"
+msgstr ""
+
+#: inc/widgets/class-tcy-our-team-widget.php:135
+msgid "About team member"
+msgstr ""
+
+#: inc/widgets/class-tcy-our-team-widget.php:145
+msgid "Team link target"
+msgstr ""
+
+#: inc/widgets/class-tcy-our-team-widget.php:153
+msgid "Column"
+msgstr ""
+
+#: inc/widgets/class-tcy-our-team-widget.php:157
+msgid "Block Columns"
+msgstr ""
+
+#: inc/widgets/class-tcy-our-team-widget.php:161
+msgid "Column 1"
+msgstr ""
+
+#: inc/widgets/class-tcy-our-team-widget.php:162
+msgid "Column 2"
+msgstr ""
+
+#: inc/widgets/class-tcy-our-team-widget.php:163
+msgid "Column 3"
+msgstr ""
+
+#: inc/widgets/class-tcy-our-team-widget.php:164
+msgid "Column 4"
+msgstr ""
+
+#: inc/widgets/class-tcy-page-block-widget.php:24
+msgid "HC - Page Block"
+msgstr ""
+
+#: inc/widgets/class-tcy-page-block-widget.php:45
+msgid "Choose Page"
+msgstr ""
+
+#: inc/widgets/class-tcy-page-block-widget.php:51
+msgid "Page thumbnail size"
+msgstr ""
+
+#: inc/widgets/class-tcy-page-block-widget.php:58
+msgid "Readmore Button Text"
+msgstr ""
+
+#: inc/widgets/class-tcy-page-block-widget.php:64
+msgid "Primary Button Text"
+msgstr ""
+
+#: inc/widgets/class-tcy-page-block-widget.php:70
+msgid "Primary Button url"
+msgstr ""
+
+#: inc/widgets/class-tcy-site-carousel-widget.php:23
+msgid "Displays posts from selected categories in carousel layouts."
+msgstr ""
+
+#: inc/widgets/class-tcy-site-carousel-widget.php:25
+msgid "HC - Site Carousel"
+msgstr ""
+
+#: inc/widgets/class-tcy-site-carousel-widget.php:86
+msgid "No of post to show"
+msgstr ""
+
+#: inc/widgets/class-tcy-site-carousel-widget.php:92
+#: inc/widgets/class-tcy-testimonial-section-widget.php:174
+msgid "No of column"
+msgstr ""
+
+#: inc/widgets/class-tcy-site-carousel-widget.php:97
+#: inc/widgets/class-tcy-testimonial-section-widget.php:179
+msgid "Column Two"
+msgstr ""
+
+#: inc/widgets/class-tcy-site-carousel-widget.php:98
+#: inc/widgets/class-tcy-testimonial-section-widget.php:180
+msgid "Column Three"
+msgstr ""
+
+#: inc/widgets/class-tcy-site-carousel-widget.php:99
+msgid "Column Four"
+msgstr ""
+
+#: inc/widgets/class-tcy-site-carousel-widget.php:124
+msgid "Carousel Layout"
+msgstr ""
+
+#: inc/widgets/class-tcy-site-carousel-widget.php:134
+msgid "Enable Navigation"
+msgstr ""
+
+#: inc/widgets/class-tcy-testimonial-section-widget.php:23
+msgid "Displays testimonial from repeater data."
+msgstr ""
+
+#: inc/widgets/class-tcy-testimonial-section-widget.php:26
+msgid "HC - Testimonial Section"
+msgstr ""
+
+#: inc/widgets/class-tcy-testimonial-section-widget.php:49
+msgid "Client Testimonials"
+msgstr ""
+
+#: inc/widgets/class-tcy-testimonial-section-widget.php:89
+msgid "Background Overlay"
+msgstr ""
+
+#: inc/widgets/class-tcy-testimonial-section-widget.php:95
+msgid "Overlay Opacity"
+msgstr ""
+
+#: inc/widgets/class-tcy-testimonial-section-widget.php:106
+msgid "Testimonial List"
+msgstr ""
+
+#: inc/widgets/class-tcy-testimonial-section-widget.php:108
+msgid "To add client testimonial click to add testimonial."
+msgstr ""
+
+#: inc/widgets/class-tcy-testimonial-section-widget.php:109
+msgid "Testimonial Details"
+msgstr ""
+
+#: inc/widgets/class-tcy-testimonial-section-widget.php:110
+msgid "Add Testimonial"
+msgstr ""
+
+#: inc/widgets/class-tcy-testimonial-section-widget.php:114
+msgid "Name One"
+msgstr ""
+
+#: inc/widgets/class-tcy-testimonial-section-widget.php:120
+msgid "Name Two"
+msgstr ""
+
+#: inc/widgets/class-tcy-testimonial-section-widget.php:126
+msgid "Nmae Three"
+msgstr ""
+
+#: inc/widgets/class-tcy-testimonial-section-widget.php:132
+msgid "Name Four"
+msgstr ""
+
+#: inc/widgets/class-tcy-testimonial-section-widget.php:133
+msgid "Position Four"
+msgstr ""
+
+#: inc/widgets/class-tcy-testimonial-section-widget.php:141
+msgid "Client Name"
+msgstr ""
+
+#: inc/widgets/class-tcy-testimonial-section-widget.php:147
+msgid "Client Position"
+msgstr ""
+
+#: inc/widgets/class-tcy-testimonial-section-widget.php:154
+msgid "Client Words"
+msgstr ""
+
+#: inc/widgets/class-tcy-testimonial-section-widget.php:161
+msgid "Client Image"
+msgstr ""
+
+#: inc/widgets/class-tcy-testimonial-section-widget.php:185
+msgid "Testimonial Layout"
+msgstr ""
+
+#: inc/widgets/class-tcy-video-block-widget.php:23
+msgid "HC - Video Block"
+msgstr ""
+
+#: inc/widgets/class-tcy-video-block-widget.php:45
+msgid "Learn from online"
+msgstr ""
+
+#: inc/widgets/class-tcy-video-block-widget.php:52
+msgid "We will provide you video tutorials."
+msgstr ""
+
+#: inc/widgets/class-tcy-video-block-widget.php:58
+msgid "Video Link"
+msgstr ""
+
+#: inc/widgets/class-tcy-video-block-widget.php:60
+msgid "Please enter the video link here."
+msgstr ""
+
+#: inc/widgets/class-tcy-video-block-widget.php:65
+msgid "Custom Screenshot"
+msgstr ""
+
+#: inc/widgets/class-tcy-video-block-widget.php:66
+msgid "Check to put custom video screenshot image."
+msgstr ""
+
+#: inc/widgets/class-tcy-video-block-widget.php:72
+msgid "Video Screenshot"
+msgstr ""
+
+#: inc/widgets/init.php:41 inc/widgets/init.php:58 inc/widgets/init.php:92
+#: inc/widgets/init.php:109 inc/widgets/init.php:126 inc/widgets/init.php:143
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/widgets/init.php:73
+msgid "Header Branding Area"
+msgstr ""
+
+#: inc/widgets/init.php:75
+msgid "Add widgets here to display header branding section."
+msgstr ""
+
+#: inc/widgets/init.php:90
+msgid "Top Home Area (Full Width)"
+msgstr ""
+
+#: inc/widgets/init.php:107
+msgid "Home Left Area( Middle Part )"
+msgstr ""
+
+#: inc/widgets/init.php:124
+msgid "Home Sidebar( Middle part ) "
+msgstr ""
+
+#: inc/widgets/init.php:141
+msgid "Bottom Home Area"
+msgstr ""
+
+#: inc/widgets/init.php:159
+#. translators: %d: Sidebar ID
+msgid "Footer %d"
+msgstr ""
+
+#: inc/widgets/init.php:161
+msgid "Added widgets are display at Footer Widget Area."
+msgstr ""
+
+#: learnpress/single-course/buttons/enroll.php:33
+msgid "Enroll"
+msgstr ""
+
+#: learnpress/single-course/buttons/purchase.php:32
+msgid "Buy this course"
+msgstr ""
+
+#: search.php:30
+#. translators: %s: search query.
+msgid "Search Results for: %s"
+msgstr ""
+
+#: template-parts/parts/site-preloader.php:17
+msgid "HamroClass Preloader"
+msgstr ""
+
+#: template-parts/single/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/single/content-none.php:23
+#. translators: 1: link to WP admin new post page.
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/single/content-none.php:34
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/single/content-none.php:38
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/single/content-page.php:28
+#: template-parts/single/content.php:73
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/single/content.php:52
+#. translators: %s: Name of current post. Only visible to screen readers
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: tribe-events/list/single-event.php:107
+#: tribe-events/list/single-featured.php:87
+msgid "Find out more"
+msgstr ""
+
+#: tribe-events/widgets/list-widget.php:119
+#. translators: %d: Events label
+msgid "View All %s"
+msgstr ""
+
+#: tribe-events/widgets/list-widget.php:125
+msgid "There are no upcoming %s at this time."
+msgstr ""
+
+#: comments.php:45
+#. translators: 1: comment count number, 2: title.
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/centurylib/library/breadcrumbs/breadcrumbs.php:292
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/centurylib/library/breadcrumbs/breadcrumbs.php:747
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: inc/centurylib/library/breadcrumbs/breadcrumbs.php:765
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: inc/centurylib/library/breadcrumbs/breadcrumbs.php:783
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: inc/centurylib/library/breadcrumbs/breadcrumbs.php:800
+#: inc/centurylib/library/breadcrumbs/breadcrumbs.php:829
+#: inc/centurylib/library/breadcrumbs/breadcrumbs.php:859
+#: inc/centurylib/library/breadcrumbs/breadcrumbs.php:886
+#: inc/centurylib/library/breadcrumbs/breadcrumbs.php:1249
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/centurylib/library/breadcrumbs/breadcrumbs.php:801
+#: inc/centurylib/library/breadcrumbs/breadcrumbs.php:860
+#: inc/centurylib/library/breadcrumbs/breadcrumbs.php:1252
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: inc/centurylib/library/breadcrumbs/breadcrumbs.php:802
+#: inc/centurylib/library/breadcrumbs/breadcrumbs.php:1255
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: inc/centurylib/library/breadcrumbs/breadcrumbs.php:830
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: inc/functions/template-functions.php:180
+#. translators: If there are characters in your language that are not supported
+#. by Roboto, translate this to 'off'. Do not translate into your own language.
+msgctxt "Roboto font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/library/tgm-plugin-activation/class-tgm-plugin-activation.php:1121
+#: inc/library/tgm-plugin-activation/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/library/tgm-plugin-activation/class-tgm-plugin-activation.php:2342
+#. translators: 1: install status, 2: update status
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/library/tgm-plugin-activation/class-tgm-plugin-activation.php:2388
+#. translators: 1: number of plugins.
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/library/tgm-plugin-activation/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""

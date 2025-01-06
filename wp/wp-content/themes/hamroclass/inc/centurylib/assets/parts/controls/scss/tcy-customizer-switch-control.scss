@@ -1,0 +1,47 @@
+/*=================================================
+            Switch Option
+=================================================*/
+.tcy-customizer-switch-single{
+    float:left;
+    display: block;
+    input{
+      display:none;
+    }
+    label{
+        margin: 0;
+        color: #555;
+        cursor: pointer;
+        padding: 4px 9px;
+        font-size: 12px;
+        line-height: 16px;
+        font-weight: normal;
+        border: 1px solid #aaa;
+        text-transform: uppercase;
+        background: #ffffff;
+        background: linear-gradient(to bottom,  #ffffff 0%,#e5e5e5 100%);
+        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#e5e5e5',GradientType=0 );
+        &:hover{
+            background: #fafafa;
+        }
+    }
+    input:checked~label{
+      color: #fff;
+      border-color: #0082A3;
+      background: linear-gradient(to bottom,  #00b7ea 0%,#009ec3 100%);
+    }
+}
+.tcy-customizer-switch-wrapper{
+  display: block;
+  .tcy-customizer-switch-single{
+    &:first-of-type{
+      label{
+        border-right: 0;
+        border-radius: 2px 0 0 2px;
+      }
+    }
+    &:last-of-type{
+      border-left: 0;
+      border-radius: 0 2px 2px 0;
+    }
+  }
+}

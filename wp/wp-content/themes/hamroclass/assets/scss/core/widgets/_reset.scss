@@ -1,0 +1,228 @@
+/*
+ * @package themecentury
+ * @subpackage hamroclass
+ * @since 1.0.0
+ */
+
+.hmc-container-fluid{
+	&>.widget{
+		max-width:1170px;
+	}
+	& >.hmc-full-widget{
+		max-width:100%;
+	}
+}
+
+.widget{	
+	margin:0 auto 30px;
+	&.widget-layout2{
+		padding:40px 0;
+		margin: 0 auto;
+	}
+	select {
+		max-width: 100%;
+	}
+	a {
+		&:hover {
+			color: $active_color;
+			&::before {
+				color: $active_color;
+			}
+		}
+	}
+}
+
+.widget-title, 
+.page-header .page-title, 
+.hmc-related-title{
+	color: #fff;
+	border: none;
+	font-size: 16px;
+	text-align: left;
+	font-weight: 500;
+	margin: 0 0 20px;
+	padding: 8px 20px;
+	border-left: none;
+	position: relative;
+	border-right: none;
+	background: $primary_color;
+	text-transform: uppercase;
+	a{
+		color:#fff;
+	}
+}
+
+.hamroclass_block_posts_widget{
+		.hmc-block-title{
+			display:-webkit-box;
+			display:-ms-flexbox;
+			display:flex;
+			-webkit-box-align:end;
+			-ms-flex-align:end;
+			align-items:flex-end;
+		}
+	
+}
+.hmc-block-title{
+	background-color: $primary_color;
+	color: #fff;
+	border: none;
+	font-size: 14px;
+	text-align: left;
+	font-weight: 700;
+	margin: 0 0 20px;
+	border-left: none;
+	position: relative;
+	border-right: none;
+	letter-spacing:2px;
+	text-transform: uppercase;
+	&:before{
+		left: 0;
+		bottom:0;
+		content: "";
+		width: 100%;
+		position: absolute;
+		border-top: 2px solid $primary_color;
+	}
+	a{
+		color:#fff;
+	}
+    .title-wrapper{
+        padding:12px 15px;
+        display:inline-block;
+        vertical-align: top;
+        text-transform: uppercase; 
+
+        a{
+            color:inherit;
+        }
+    }
+    .wdgt-title-tabs{
+        margin:0;
+        padding:0 8px;
+        display:-webkit-box;
+			display:-ms-flexbox;
+			display:flex;
+        list-style:none;
+        margin-left:auto;
+    }
+    .wdgt-title-tabs li{
+        a{
+            font-size:14px;
+            padding:10px 12px 8px;
+            display:block;
+            transition:none;
+            color:#fff;
+            text-transform: uppercase;
+            border:1px solid rgba(0,0,0,0.5);
+            border-width:2px 2px 0 2px;
+            border-style:solid;
+            border-color:$primary_color;
+            -webkit-transition:all 0.3s ease-in-out;
+            transition:all 0.3s ease-in-out;
+        }
+        &:hover a, &.active-item a{
+            color:$primary_color;
+            background-color:$white_color;
+        }
+    }	
+}
+.wdgt-tab-term{
+	transform:translateY(0);
+}
+
+body .card{
+	border:1px solid #e8ecef;
+	border-radius:0;
+	box-shadow:none;
+	padding-top:20px;
+}
+
+/*section-heading*/
+.section-heading{
+	margin-bottom:50px;
+	.section-title{
+		text-transform:uppercase;
+	}
+	.section-title, .section-sub_title{
+		margin:0;
+		line-height:1.5;
+	}
+}
+
+
+/*----------------------
+title layout for widget
+-----------------------*/
+.widget-layout2{
+	.section-title{
+		font-size:30px;
+		font-weight:500;
+		position:relative;
+		display:-webkit-box;
+		display:-ms-flexbox;
+		display:flex;
+		-ms-flex-wrap: wrap;
+		flex-wrap: wrap;
+		-webkit-box-pack:center;
+    	-ms-flex-pack:center;
+        justify-content:center;
+        margin-bottom:30px;
+        padding-bottom:10px;
+        position:relative;
+        text-transform:uppercase;
+        width:100%;
+        line-height:1;
+        span{
+        	position: relative;
+		    display: block;
+		    width: 100%;
+		    text-align: center;
+		    padding-bottom:10px;
+        	&:after{
+	        	content:'';
+	        	position:absolute;
+	        	bottom:0;
+	        	width:20px;
+	        	height:2px;
+	        	background-color:$secondary_color;
+	        	left:50%;
+	        	-webkit-transform:translateX(-50%);
+	        	transform:translateX(-50%);
+        	}
+        }
+		ul{
+			list-style:none;
+			margin:10px auto 0;
+			text-align:center;
+		}
+
+		li{
+			display:inline-block;
+			margin-left:5px;
+			a{
+				display: block;
+			    font-size: 16px;
+			    color: #0f233a;
+			    padding: 0 5px;
+			    line-height: 1;
+			    font-weight: 500;
+			    position: relative;
+			    text-transform: capitalize;
+			}
+
+			&.active-item a{
+				color:$secondary_color;
+			}
+		}
+	}
+
+	.section-sub_title{
+		font-weight:500;
+	}
+
+}
+
+.widget_rss .widget-title a{
+	color:#fff;
+}

@@ -1,0 +1,42 @@
+/*
+ * @package themecentury
+ * @subpackage hamroclass
+ * @since 1.0.0
+ */
+
+.hamroclass_page_block_widget{
+	
+}
+
+.about-us-wrapper{
+	padding: 50px 0;
+	background-size:cover;
+	background-position:center center;
+
+	@media(max-width: 1200px){
+		padding-left:15px;
+		padding-right:15px;
+		
+	}
+}
+
+.about-block-title{
+	text-transform:uppercase;
+}
+
+.about-media-part,
+.about-content-part{
+	width:50%;
+	display:table-cell;
+	vertical-align:middle;
+}
+
+.about-content-part{
+	padding: 15px;
+}
+
+.about-content-inner{
+	width:100%;
+	display:inline-block;
+	vertical-align:middle;
+}

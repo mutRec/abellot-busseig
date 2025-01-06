@@ -1,0 +1,259 @@
+/*
+ * @package themecentury
+ * @subpackage hamroclass
+ * @since 1.0.0
+ */
+.main-banner-slider-wrapper{
+	overflow: hidden;
+	position: relative;
+	z-index:1;
+}
+
+.custom-button{
+	z-index: 1;
+	margin: 10px;
+	font-size: 14px;
+	padding: 8px 30px;
+	position: relative;
+	text-align: center;
+	letter-spacing:1px;
+	border-radius:25px;
+	color: $primary_color;
+	display: inline-block;
+	text-transform: uppercase;
+	border: 1px solid $primary_color;
+	&:hover{
+		color:rgba(0,0,0,0.8);
+		border-color:$white_color;
+		background-color:$white_color;
+	}
+	&.button-secondary{
+		color:$white_color;
+		background-color:$primary_color;
+		&:hover{
+			color:rgba(0,0,0,0.8);
+			background-color:$white_color;
+		}
+	}
+
+	@media(max-width:640px){
+		font-size: 12px;
+    	padding: 5px 13px;
+	}
+
+}
+.buttons-wrap{
+	a.custom-button{
+		margin: 0 25px 5px 0;
+	}
+}
+.hamroclass-banner-image{
+	&.no-thumbnail{
+		min-height:500px;
+		background-color:rgba(0,0,0, 0.6);
+	}
+}
+.main-banner-slider-wrapper{
+	.cycle-prev, .cycle-next{
+		padding: 0;
+		opacity: 0;
+		bottom: 50%;
+		width: 50px;
+		height: 50px;
+		z-index: 99999;
+		display: block;
+		font-size: 30px;
+		cursor: pointer;
+		position: absolute;
+		text-align: center;
+		line-height: 50px;
+		font-weight: normal;
+		border-radius:100%;
+		color: rgba(0, 0, 0, 0.8);
+		background-color: $white_color;
+		transition: all 0.2s ease-in-out 0s;
+		&:hover{
+			color: $white_color;
+			background-color: $active_color;
+		}
+
+		& i{
+			line-height:50px;
+		}
+	}
+	.cycle-prev{
+		left: 15px;
+	}
+	.cycle-next{
+		right: 15px;
+	}
+	&:hover{
+		.cycle-prev, .cycle-next{
+			opacity: 1;
+			bottom: 45%;
+		}
+	}
+}
+
+.hamroclass-main-banner{
+	clear: both;
+	z-index: 1;
+	color: #686868;
+	position: relative;
+	text-align: center;
+	margin-bottom: 30px;
+	img {
+		width: 100%;
+		vertical-align: middle;
+	}
+
+	p{
+		clear: both;
+		width: 730px;
+		color:$primary_color;
+		max-width: 100%;
+		font-size: 18px;
+		font-weight: 100;
+		line-height:1.6em;
+		margin-bottom: 20px;
+		display: inline-block;
+		@media(max-width: 1200px){
+			font-size: 16px;
+			line-height: 1.6em;
+		}
+		@media(max-width:640px){
+			display:none;
+		}
+	}
+	h3{
+		display: block;
+		font-size:35px;
+		line-height: 1.2;
+		font-weight: 700;
+		margin-bottom: 10px;
+		letter-spacing: 1px;
+		text-transform:uppercase;
+		text-shadow: 0px 0px 1px #232323;
+		a{
+			color: $primary_color;
+			display: block;
+			font-weight:400;
+
+			@media (max-width: $large_mob_max){
+				font-size:20px;
+			}
+			&:hover{
+				opacity: 0.7;
+			}
+		}
+	}
+	article{
+		position:relative;
+	}
+	&:not(.lightSlider){
+		article {
+			display: none;
+			&:first-of-type{
+				display:block;
+			}
+		}
+	}
+	.cycle-slide {
+		width: 100%;
+	}
+	.cycle-slideshow {
+		margin-bottom: 0;
+		padding: 0;
+	}
+	.cycle-caption-container{
+		position: absolute;
+		top: 50%;
+		left:50%;
+		transform: translate(-50%,-50%);
+		max-width: 1170px;
+		width:100%;
+		z-index: 999;
+
+		&.caption-alignment-center{
+			text-align: center;
+		}
+		&.caption-alignment-left{
+			text-align:left;
+		}
+		&.caption-alignment-right{
+			text-align:right;
+		}
+
+
+		.cycle-caption{
+			display:inline-block;
+			vertical-align:center;
+			max-width:640px;
+			width:100%;
+			background-color: rgba(255,255,255,0.7);
+		    padding: 20px;
+		}
+	}
+	.cycle-slide-active{
+		h3{
+			padding-right:0px;
+		}
+		p{
+			padding-left:0px;
+		}
+	}
+	
+	.pager-box {
+		float: none;
+		height: 5px;
+		width: 50px;
+		z-index: 99;
+		cursor: pointer;
+		margin: 3px 5px;
+		display: inline-block;
+		background-color: #fff;
+		&.cycle-pager-active {
+			border-color: #fff;
+			background-color: $primary_color;
+		}
+	}
+	.cycle-pager{
+		left: 0;
+		width: 100%;
+		z-index: 999;
+		bottom: 20px;
+		position: absolute;
+		text-align: center;
+	}
+	.caption-alignment-right{
+		.buttons-wrap{
+			a.custom-button {
+				margin: 0 0 0 25px;
+
+				@media (max-width: 768px){
+					margin:5px;
+				}
+
+			}
+		}
+	}
+
+	&.overlay-disabled{
+		.cycle-caption-container{
+			.cycle-caption{
+				background-color:transparent;
+			}
+		}
+	}
+	
+}
+
+body >.hamroclass-banner-post{
+	display:none;
+}
+
+.slider-buttons{
+	@media (max-width: 480px) {
+		display: none;
+	}	
+}

@@ -1,0 +1,28 @@
+
+.hmc-column-wrapper{
+  &:after{
+    content:"";
+    clear:both;
+    display:block;
+  }
+}
+
+.hmc-column-1{
+  float: left;
+  width: 100%;
+}
+
+.hmc-column-2{
+  float: left;
+  width: 50%;
+}
+
+.hmc-column-3{
+  float: left;
+  width: 33.33%;
+}
+
+.hmc-column-4{
+  float: left;
+  width: 25%;
+}

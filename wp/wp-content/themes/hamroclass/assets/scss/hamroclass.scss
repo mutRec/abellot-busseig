@@ -1,0 +1,51 @@
+/*
+ * @package themecentury
+ * @subpackage hamroclass
+ * @since 1.0.0
+ */
+@import "core/variables";
+@import "core/reset";
+@import "core/header";
+@import "core/sections";
+@import "core/forms";
+@import "core/content";
+@import "core/widgets";
+@import "core/widget-areas";
+@import "core/grid";
+@import "core/layouts";
+@import "core/misc";
+@import "core/footer";
+@import "core/responsive";
+@import "core/plugins";
+
+.widget.hamroclass_contact_form_widget, 
+.widget.hamroclass_testimonial_section_widget,
+.widget.hamroclass_video_block_widget,
+.widget.hamroclass_call_to_action_widget{
+	padding:0;
+}
+.widget.hamroclass_page_block_widget,
+.widget.hamroclass_course_search_widget,
+.widget.hamroclass_course_listing_widget{
+	padding:0;
+
+
+}
+.widget.hamroclass_our_team_widget{
+	padding:50px 0;
+
+	@media(max-width: 1200px){
+		padding-left:15px;
+		padding-right:15px;
+	}
+}
+.footer-sidebar-area{
+	.widget,
+	.widget.hamroclass_our_team_widget,
+	.widget.hamroclass_course_listing_widget, 
+	.widget.hamroclass_course_search_widget, 
+	.widget.hamroclass_page_block_widget{
+		padding-left:0;
+		padding-right:0;
+	}	
+}

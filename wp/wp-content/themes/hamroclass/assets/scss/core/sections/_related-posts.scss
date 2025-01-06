@@ -1,0 +1,39 @@
+/*
+ * @package themecentury
+ * @subpackage hamroclass
+ * @since 1.0.0
+ */
+.hmc-related-section-wrapper{
+	margin-top: 30px;
+	.hmc-single-post {
+		float: left;
+		width: 33.33%;
+		padding: 0 7.5px;
+		@media (max-width: 600px){
+			width:100%;
+			margin-bottom:15px;
+		}
+	}
+}
+.hmc-single-post-inner{
+	padding:15px;
+	background-color:$white_color;
+	.hmc-post-thumb{
+		margin:-15px -15px 10px;
+	}
+}
+.hmc-related-posts-wrap {
+	margin:0 -7.5px;
+	.hmc-post-meta {
+		span {
+			font-size: 12px;
+			a {
+				font-size: 12px;
+			}
+		}
+	}
+	.hmc-post-title {
+		margin: 10px 0 5px;
+	}
+
+}

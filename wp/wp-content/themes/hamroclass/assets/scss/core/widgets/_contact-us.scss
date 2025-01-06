@@ -1,0 +1,88 @@
+/*
+ * @package themecentury
+ * @subpackage hamroclass
+ * @since 1.0.0
+ */
+.apply-now-section{
+	padding:50px;
+	position:relative;
+
+	
+	@media(max-width:640px){
+		padding:15px;
+	}
+
+	&:before{
+		content: '';
+	    position: absolute;
+	    top: 0;
+	    bottom: 0;
+	    left: 0;
+	    right: 0;
+	    background-color: rgba(15, 35, 58, 0.78);
+	}
+
+	.apply-now-wrap{
+		max-width:640px;
+		margin:0 auto;
+		display:-webkit-box;
+		display:-ms-flexbox;
+		display:flex;
+		-ms-flex-wrap: wrap;
+			    flex-wrap: wrap;
+		position:relative;
+	}
+	.apply-now-left{
+		display:-webkit-box;
+		display:-ms-flexbox;
+		display:flex;
+		align-items:center;
+		width:50%;
+		color:$white_color;
+		background-color:$primary_color;
+		padding:20px;
+		font-size:20px;
+		position:relative;
+		line-height:1.4;
+
+		&:after{
+			content:'';
+			position:absolute;
+			top:50%;
+			-webkit-transform:translateY(-50%);
+			transform:translateY(-50%);
+			right:0;
+			width: 0;
+			height: 0;
+			border-style: solid;
+			border-width: 10px 10px 10px 0;
+			border-color: transparent $white_color transparent transparent;
+		}
+	}
+	.apply-now-right{
+		padding:20px;
+		width:50%;
+		background-color:$white_color;
+
+		form{
+			p{
+				display:block;
+				margin-bottom:10px;
+
+				&:last-child{
+					margin-bottom:0;
+				}
+			}
+
+			textarea{
+				height:150px;
+				resize:none;
+			}
+
+			input, textarea{
+				outline:0;
+			}
+
+		}
+	}
+}

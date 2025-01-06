@@ -1,0 +1,71 @@
+/*
+ * @package themecentury
+ * @subpackage hamroclass
+ * @since 1.0.0
+ */
+.hmc-top-header-wrap {
+    background-color:#f1f1f1;
+    color: $primary_color;
+    padding: 8px 0;
+}
+
+.hmc-top-left-section-wrapper {
+    float: left;
+    font-size: 12px;
+    line-height: 2.2em;
+    .date-section {
+        float: left;
+        margin-right: 10px;
+        &:before{
+            content: "\f017";
+            display: inline-block;
+            font-family: $font_awesome;
+            margin-right: 8px;
+        }
+    }
+
+    & + .top-navigation{
+        padding-left:0;
+    }
+}
+
+.top-navigation {
+    float: left;
+    ul{
+        margin: 0;
+        list-style:none;
+
+        li{
+            padding: 0 10px;
+            line-height: 12px;
+            display: inline-block;
+            border-left: 1px solid $white_color;
+            a{
+                color: $primary_color;
+            }
+        }
+    }
+}
+
+.hmc-top-right-section-wrapper{
+    float: right;
+    
+    .social-link {
+        display: block;
+        float: left;
+        margin: 0 3px;
+        text-align: center;
+        padding: 4px 10px;
+        background-color: #0f233a;
+
+        a{
+            color: $white_color;
+            line-height: 1em;
+            display: block;
+            margin-top: 1px;
+            .fa{
+                font-size: 16px;
+            }
+        }
+    }
+}

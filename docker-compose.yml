@@ -1,0 +1,33 @@
+version: '3.1'
+
+services:
+
+  wordpress:
+    image: wordpress
+    container_name: abellot-busseig
+    restart: always
+    ports:
+      - 8084:80
+    environment:
+      WORDPRESS_DB_HOST: db
+      WORDPRESS_DB_USER: wp-admin
+      WORDPRESS_DB_PASSWORD: ivanA0Jofre
+      WORDPRESS_DB_NAME: busseig
+    volumes:
+      - /opt/abellot/contenidors/abellot-busseig/wp:/var/www/html
+
+  db:
+    image: mariadb
+    container_name: abellot-busseig-db
+    restart: always
+    environment:
+      MYSQL_DATABASE: busseig
+      MYSQL_USER: wp-admin
+      MYSQL_PASSWORD: ivanA0Jofre
+      MYSQL_RANDOM_ROOT_PASSWORD: 'ivanA0Jofre'
+    volumes:
+      - /opt/abellot/contenidors/abellot-busseig/db:/var/lib/mysql
+
+volumes:
+  wordpress:
+  db:

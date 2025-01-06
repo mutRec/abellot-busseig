@@ -1,0 +1,49 @@
+/*
+ * @package themecentury
+ * @subpackage hamroclass
+ * @since 1.0.0
+ */
+
+/*
+ * Learnpress widget on specific widget area
+ */
+.footer-sidebar-area, .sidebar-main-area{
+
+	.widget{
+		.course-entry{
+			width:100%;
+			float:none;
+			margin-bottom:15px;
+		}
+	}
+
+	.course-search{
+		padding: 30px 0;
+		.section-wrap{
+			.section-heading{
+				margin:0 auto 20px;
+			}
+		}
+		form{
+			span{
+				width:100%;
+				margin:0 0 15px;
+			}
+		}
+	}
+
+	ul.learn-press-courses{
+		.course{
+			width:100%;
+		}
+	}
+
+	.hmc-cta-wrapper{
+		.hmc-cta-content{
+			padding:30px 0;
+		}
+	}
+
+	
+
+}

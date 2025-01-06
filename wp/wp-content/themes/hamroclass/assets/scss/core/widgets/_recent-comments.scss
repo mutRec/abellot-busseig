@@ -1,0 +1,38 @@
+/*
+ * @package themecentury
+ * @subpackage hamroclass
+ * @since 1.0.0
+ */
+
+.widget_recent_comments{
+	ul {
+		margin: 0;
+		list-style: outside none none;
+	}
+	li {
+		display: block;
+		color: $body_color;
+		font-size: 14px;
+		line-height: 26px;
+		padding-left: 22px;
+		position: relative;
+		margin-bottom: 5px;
+		padding-bottom: 5px;
+		transition: color 0.3s ease;
+		border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+		&:last-child {
+			border: none;
+		}
+		&::before {
+			top: 0px;
+			left: 0;
+			color: $body_color;
+			font-size: 14px;
+			content: "\f187";
+			content: "\f086";
+			position: absolute;
+			font-family: $font_awesome;
+			transition: color 0.3s ease;
+		}
+	}
+}

@@ -1,0 +1,56 @@
+/*menu fields*/
+.centurylib-megamenu-wrapper{
+    clear:both;
+    overflow:hidden;
+    display:block;
+}
+.centurylib-menu-field-wrapper{
+    display:none;
+    margin:0 0 10px;
+    &.centurylib-icons-wrapper{
+        display:block;
+    }
+}
+.menu-item-depth-0{
+    .centurylib-menu-field-wrapper{
+        display:block;
+    }
+}
+/*Icons field*/
+.centurylib-icon-header{
+    background-color:#f3f3f3;
+    .centurylib-icon-preview{
+        border-radius:0px;
+        margin-bottom:0px;
+    }
+    .icon-toggle{
+        color:#fff;
+        padding:0 10px;
+        border-radius:0px;
+        background-color:#00a0d2;
+        span{
+            color:#fff;
+            height:auto;
+            width:auto;
+            line-height:40px;
+        }
+    }
+    .remove-icon{
+        color:#fff;
+        float:right;
+        padding:0 10px;
+        margin-left:10px;
+        border-radius:0px;
+        line-height:40px;
+        cursor:pointer;
+        background-color:#00a0d2;
+        span{
+            line-height:40px;
+        }
+    }
+    &:after{
+        content:"";
+        display:block;
+        clear:both;
+    }
+}

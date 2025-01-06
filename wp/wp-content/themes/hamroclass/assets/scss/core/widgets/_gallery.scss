@@ -1,0 +1,117 @@
+/*
+ * @package themecentury
+ * @subpackage hamroclass
+ * @since 1.0.0
+ */
+.wp-caption{
+	border: 1px solid #ccc;
+	margin-bottom: 15px;
+	max-width: 100%;
+	img[class*="wp-image-"]{
+		display: block;
+		margin: 1.2% auto 0;
+		max-width: 98%;
+	}
+	.wp-caption-text{
+		margin: 10px 0;
+	}
+}
+
+.wp-caption-text{
+	text-align: center;
+}
+
+.site-main{
+	.gallery{
+		margin-bottom: 1.5em;
+		a{
+			img{
+				border: none;
+				height: auto;
+				max-width: 90%;
+				max-width: none;
+				width: 100%;
+			}
+		}
+		dd{
+			margin: 0;
+		}
+		figcaption{
+			margin: 0;
+		}
+	}
+}
+
+embed{
+	max-width: 100%;
+}
+.gallery{
+	margin-bottom: 1.5em;
+	margin-left: -2%;
+}
+
+.gallery-item{
+	width: 100%;
+	text-align: center;
+	display: inline-block;
+	vertical-align: top;
+	margin-bottom: 15px;
+	padding: 0 5px;
+
+	img{
+		width:100%;
+		object-fit:cover;
+	}
+}
+
+.gallery-columns-2{
+	.gallery-item{
+		max-width: 50%;
+	}
+}
+
+.gallery-columns-3{
+	.gallery-item{
+		max-width: 33.33%;
+	}
+}
+
+.gallery-columns-4{
+	.gallery-item{
+		max-width: 25%;
+	}
+}
+
+.gallery-columns-5{
+	.gallery-item{
+		max-width: 20%;
+	}
+}
+
+.gallery-columns-6{
+	.gallery-item{
+		max-width: 16.66%;
+	}
+}
+
+.gallery-columns-7{
+	.gallery-item{
+		max-width: 14.28%;
+	}
+}
+
+.gallery-columns-8{
+	.gallery-item{
+		max-width: 12.5%;
+	}
+}
+
+.gallery-columns-9{
+	.gallery-item{
+		max-width: 11.11%;
+	}
+}
+
+.gallery-caption{
+	display: block;
+}

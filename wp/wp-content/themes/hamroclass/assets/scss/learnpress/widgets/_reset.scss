@@ -1,0 +1,104 @@
+/*
+ * @package themecentury
+ * @subpackage hamroclass
+ * @since 1.0.0
+ */
+
+.widget{
+	.archive-course-widget-outer{
+		width:1170px;
+		margin:0 auto;
+		max-width:100%;
+		overflow:hidden;
+		@media(max-width: 1200px){
+			padding:0 15px;
+		}
+	}
+	.widget-body{
+		margin:0 -7.5px;
+		&:after{
+			content:"";
+			clear:both;
+			display:block;
+		}
+	}
+	.course-entry{
+		width: calc(25% - 15px);
+	    float: left;
+	    margin: 0 7.5px;
+	    background-color: #f1f1f1;
+
+	    @media screen and (max-width:992px){
+			width: calc(33.33% - 15px);
+	    }
+	    @media screen and (max-width:768px){
+			width: calc(50% - 15px);
+	    }
+	    @media screen and (max-width:480px){
+			width: calc(100% - 15px);
+	    }
+	}
+	.course-detail{
+		padding:10px;
+		text-align:center;
+	}
+	.course-title{
+		color: #3d3d3d;
+	    display: block;
+	    font-size: 18px;
+	    margin: 0 0 10px;
+
+		&:hover{
+			color:$primary_color;
+		}
+	}
+	.course-meta-data{
+		padding: 0;
+	    border: 1px solid #f1f1f1;
+	    margin-top: 10px;
+	    background-color: #fff;
+		&:after{
+			content:"";
+			clear:both;
+			display:block;
+		}
+	}
+	.course-meta-field{
+		padding: 2px 10px;
+    	border-bottom: 1px solid #f1f1f1;
+
+		&:last-child{
+			border-bottom:0;
+		}
+	}
+	.widget-footer{
+		clear:both;
+		padding: 15px 0 0;
+		text-align:center;
+		a{
+			float:none;
+			z-index: 1;
+		    font-size: 14px;
+		    padding: 8px 30px;
+		    position: relative;
+		    text-align: center;
+		    letter-spacing: 1px;
+		    border-radius: 25px;
+		    color: $primary_color;
+		    display: inline-block;
+		    text-transform: uppercase;
+		    border: 1px solid $primary_color;
+		    font-weight:500;
+
+			&:hover{
+				color:$white_color;
+				background-color:$primary_color;
+			}
+		}
+		&:after{
+			clear:both;
+			content:"";
+			display:block;
+		}
+	}
+}

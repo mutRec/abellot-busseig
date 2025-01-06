@@ -1,0 +1,23 @@
+/**
+ * Font Awesome Icon Lists CSS
+ */
+.tcy-customize-icons .tcy-icons-list-wrapper {
+  height: 180px;
+  overflow-y: scroll;
+  background: #fff;
+  border: 1px solid #ccc;
+  width: 100%; }
+  .tcy-customize-icons .tcy-icons-list-wrapper span {
+    display: block;
+    float: left;
+    padding: 14px;
+    height: 15px;
+    width: 15px;
+    font-size: 15px;
+    text-align: center;
+    border-radius: 50%;
+    margin: 0 5px 5px 0; }
+    .tcy-customize-icons .tcy-icons-list-wrapper span:hover, .tcy-customize-icons .tcy-icons-list-wrapper span.selected {
+      background: #f28b00;
+      color: #fff; }
+

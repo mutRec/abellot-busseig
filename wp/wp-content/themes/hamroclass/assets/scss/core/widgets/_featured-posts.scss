@@ -1,0 +1,78 @@
+/*
+ * @package themecentury
+ * @subpackage hamroclass
+ * @since 1.0.0
+ */
+.hamroclass_featured_posts {
+	.hmc-post-thumb {
+		float: left;
+		width: 40%;
+	}
+	.hmc-post-title{
+		margin: 0 0 2px;
+		line-height: 20px;
+		a{
+			font-size: 14px;
+			color: $body_color;
+			text-transform: capitalize;
+			@media (max-width: 1170px){
+				font-size: 14px
+			}
+			&:hover {
+				color: $primary_color;
+			}
+		}
+	}
+	.hmc-post-meta{
+		.byline {
+			display: block;
+		}
+		span {
+			font-size: 14px;
+			font-style: normal;
+			font-weight: 500;
+			margin-right: 15px;
+			@media (max-width: 1170px){
+				margin-right: 8px
+			}
+			a{
+				color: $white_color1;
+				font-size: 14px;
+				font-style: normal;
+				&:hover{
+					color: $primary_color;
+				}
+			}
+		}
+	}
+	.hmc-post-content{
+		width: 60%;
+		float: left;
+		padding: 0 0 0 10px;
+		position: static;
+		background: rgba(0, 0, 0, 0);
+	}
+	.hmc-single-post{
+		&:after{
+			content:"";
+			clear:both;
+			display:block;
+		}
+	}
+	.hmc-single-post-wrap{
+		float: left;
+		width: 25%;
+		padding: 0 15px 15px 0;
+
+		.hmc-single-post{
+			background-color:#fff;
+		}
+	}
+	.hmc-featured-posts-wrapper{
+		&:after{
+			content:"";
+			clear:both;
+			display:block;
+		}
+	}
+}

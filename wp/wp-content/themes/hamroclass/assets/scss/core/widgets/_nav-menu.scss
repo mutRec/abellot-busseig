@@ -1,0 +1,48 @@
+/*
+ * @package themecentury
+ * @subpackage hamroclass
+ * @since 1.0.0
+ */
+.widget_nav_menu {
+	ul {
+		list-style: outside none none;
+		margin: 0;
+	}
+	li {
+		
+		margin-bottom: 5px;
+		padding-bottom: 5px;
+		border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+		&:last-child {
+			border: none;
+		}
+		a {
+			color: $body_color;
+			font-size: 14px;
+			line-height: 26px;
+			padding-left: 22px;
+			position: relative;
+			display: inline-block;
+			transition: color 0.3s ease;
+			&:before {
+				left: 0;
+				top: 0px;
+				color: $body_color;
+				font-size: 14px;
+				content: "\f105";
+				position: absolute;
+				font-family: $font_awesome;
+				transition: color 0.3s ease;
+				
+			}
+		}
+		&::before {
+			top: 0;
+		}
+	}
+	.sub-menu {
+		margin-top: 10px;
+		padding-left: 10px;
+		margin-bottom: -10px;
+	}
+}

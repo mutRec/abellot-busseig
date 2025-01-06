@@ -1,0 +1,223 @@
+/*
+ * @package themecentury
+ * @subpackage hamroclass
+ * @since 1.0.0
+ */
+
+.sidebar-main-area{
+	float: right;
+	width: 30%;
+
+	.hmc-container .hmc-container{
+		padding-left:15px;
+		padding-right:15px;
+	}
+}
+.main-content-area{
+	float: left;
+	width: 70%;
+	
+}
+
+.left-sidebar{
+	.main-content-area{
+		float: right;
+	}
+	.sidebar-main-area{
+		float: left;
+	}
+}
+
+.no-sidebar{
+	.main-content-area{
+		float: none;
+		width: 100%;
+		margin: 0 auto;
+	}
+	.sidebar-main-area{
+		display: none;
+	}
+}
+
+.no-sidebar-center{
+	.main-content-area{
+		float: none;
+		margin: 0 auto;
+	}
+}
+body{
+	&.left-sidebar{
+		.main-content-area{
+			padding-left:20px;
+		}
+	}
+	&.right-sidebar{
+		.main-content-area{
+			padding-right:20px;
+		}
+	}
+	&.both-sidebar{
+		.main-content-area{
+			width:50%;
+			padding:0 20px;
+			margin:0 -80% 0 25%;
+		}
+		.sidebar-main-area{
+			width:25%;
+		}
+		.hamroclass_left_sidebar{
+			float:left;
+		}
+		.hamroclass_right_sidebar{
+			float:right;
+		}
+	}
+}
+
+.home.blog{
+	#content{
+		.hmc-container {
+			margin: 20px auto;
+		}
+		.main-content-area{
+			article {
+				&:first-child {
+					margin-top: 0;
+				}
+			}
+		}
+	}
+}
+
+
+.page-template-magazine-template{
+	.main-content-area {
+		float: none;
+		width: 100%;
+	}
+}
+.no-sidebar-center .centurylib-breadcrumbs-wrapper{
+    width: 70%;
+
+    @media(max-width:768px){
+        width:100%;
+    }
+}
+
+
+.sidebar-main-area,
+.footer-sidebar-area{
+	
+	/*======================================================================
+	---------------------- Block Posts - Layout 5 --------------------------
+	======================================================================*/
+	.block-posts-blog{
+		width:100%;
+		padding-left:0;
+		padding-right:0;
+	}
+	
+	/*======================================================================
+	---------------------- CTA SECTION --------------------------
+	======================================================================*/
+	.hmc-cta-wrapper{
+		.hmc-cta-content{
+			padding-left:15px;
+			padding-right:15px;
+		}
+	}
+
+	/*======================================================================
+	---------------------- Contact Us Section  --------------------------
+	======================================================================*/
+	.apply-now-section {
+		padding:20px;
+
+		.apply-now-left{
+			font-size:14px;
+
+			&:after{
+				content:none;
+			}
+		}
+
+		.apply-now-left,
+		.apply-now-right{
+			width:100%;
+		}
+	}
+	/*======================================================================
+	---------------------- Featured Posts  --------------------------
+	======================================================================*/
+	.hamroclass_featured_posts .hmc-single-post-wrap{
+		width:100%;
+
+		@media(max-width: 600px){
+			padding:0;
+		} 
+
+	}
+
+	/*======================================================================
+	---------------------- Team Section  --------------------------
+	======================================================================*/
+	.hamroclass-team-blocks{
+		.team-block-item{
+			width:100%;
+			margin-bottom:15px;
+		}
+	}
+
+	/*======================================================================
+	---------------------- Testimonial section  --------------------------
+	======================================================================*/
+	.hamroclass-testimonial-list{
+		li{
+			width:100%;
+			padding:0 15px 15px;
+		}
+	}
+
+	/*======================================================================
+	---------------------- Site Carousel  --------------------------
+	======================================================================*/
+	.hamroclass-block-carousel.cS-hidden{
+		.hmc-carousel-list{
+			width:100%;
+			display:none;
+			&:first-child{
+				display:block;
+			}
+		}
+	}
+
+	/*======================================================================
+	---------------------- Featured Slider Area  --------------------------
+	======================================================================*/
+
+	.hamroclass_featured_slider_widget{
+		.slider-posts{
+			width:100%;
+			margin-bottom:15px;
+		}
+		.featured-posts{
+			width:100%;
+			.hamroclass-single-post-wrap{
+				width:100%;
+			}
+		}
+	}
+
+
+}
+
+.widget-layout2{
+	&.centurylib-autor-info{
+		padding-top:50px;
+	}
+	&.hamroclass_contact_form_widget{
+		@media(max-width: 1200px){
+			padding:0;
+		}
+	}
+}

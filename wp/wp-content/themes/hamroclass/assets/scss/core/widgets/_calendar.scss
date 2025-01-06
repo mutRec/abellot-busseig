@@ -1,0 +1,17 @@
+/*
+ * @package themecentury
+ * @subpackage hamroclass
+ * @since 1.0.0
+ */
+
+.calendar_wrap{
+	caption{
+		padding: 0 15px;
+		font-size: 18px;
+		border:1px solid;
+		font-weight: 700;
+		line-height: 40px;
+		color:$primary_color;
+		text-transform: uppercase;
+	}
+}

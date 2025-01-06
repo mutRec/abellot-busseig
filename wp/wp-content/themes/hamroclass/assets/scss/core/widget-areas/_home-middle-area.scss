@@ -1,0 +1,30 @@
+/*
+ * @package themecentury
+ * @subpackage hamroclass
+ * @since 1.0.0
+ */
+.hmc-home-middle-section{
+	.middle-primary{
+		float: left;
+		width: 70%;
+		padding-right:20px;
+	}
+	.middle-aside{
+		float: right;
+		width: 30%;
+	}
+}
+/*==============================================================================================
+-------------------------------------- Middle Content Area ------------------------------------
+==============================================================================================*/
+
+.middle-primary{
+	.hamroclass_featured_posts{
+		.hmc-single-post-wrap{
+			width: 50%;
+			@media(max-width: 380px){
+				width:100%;
+			}
+		}
+	}
+}

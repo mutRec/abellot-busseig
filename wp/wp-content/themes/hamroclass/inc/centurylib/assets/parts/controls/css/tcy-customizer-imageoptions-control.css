@@ -1,0 +1,29 @@
+/*=================================================
+            Customizer Image Options
+=================================================*/
+.tcy-imageoption-wrapper:after {
+  content: "";
+  display: block;
+  clear: both; }
+
+.tcy-imageoption-single {
+  float: left;
+  width: 33%;
+  padding: 5px;
+  display: block;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box; }
+  .tcy-imageoption-single input {
+    display: none; }
+
+.tcy-customizer-imageoption-label {
+  display: block;
+  border: 3px solid #dedede; }
+
+.tcy-customizer-imageoption-label img {
+  width: 100%; }
+
+.tcy-imageoption-single input:checked ~ .tcy-customizer-imageoption-label {
+  border-color: #0073aa; }
+

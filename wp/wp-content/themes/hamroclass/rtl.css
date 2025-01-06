@@ -1,0 +1,29 @@
+/**
+ * hamroclass rtl.css
+ *
+ * @package themecentury
+ * @subpackage hamroclass
+ * @version 1.0.0
+ */
+body{
+	direction: rtl;
+	unicode-bidi: embed;
+}
+.lSSlideOuter{
+	direction: ltr;
+}
+.lightSlider{
+	direction: rtl;
+}
+
+.lSSlideOuter.vertical .lSAction > .lSPrev{
+	float:left;
+}
+
+.widget_meta a::before{
+	content:"\f104";
+}
+
+.widget_recent_entries a::before{
+	content:"\f100";
+}

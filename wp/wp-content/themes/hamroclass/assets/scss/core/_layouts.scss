@@ -1,0 +1,77 @@
+/*
+ * @package themecentury
+ * @subpackage hamroclass
+ * @since 1.0.0
+ */
+.hmc_boxed_width_layout {
+	#page {
+		margin: 0 auto;
+		width: 1200px;
+		max-width:100%;
+		background: #ffffff;
+	}
+}
+
+body.fullwidth-layout {
+	#page {
+		background: $white_color;
+	}
+}
+
+.hide {
+	display: none;
+}
+
+
+.post-cats-list {
+	span{
+		position:relative;
+		display: inline-block;
+		vertical-align: top;
+		background: #0f233a;
+		&:after{
+			content: "";
+			right: 0;
+			top: -6px;
+			z-index: 1;
+			position: absolute;
+			border-left: 3px solid #333;
+			border-right: 3px solid transparent;
+			border-bottom: 3px solid #333;
+			border-top: 3px solid transparent;
+		}
+		&:hover{
+			background:$primary_color;
+			&:after{
+				border-left-color:$primary_color;
+				border-bottom-color:$primary_color;
+			}
+			a{
+				color:$white_color;
+			}
+		}
+	}
+	a {
+		color: inherit;
+		display: block;
+		font-size: 12px;
+		font-weight: 500;
+		margin-right: 5px;
+		padding: 1px 12px;
+		text-transform: capitalize;
+		border-radius: 10px;
+
+	}
+}
+
+.hamroclass_slider {
+	.lSAction {
+		> a {
+			background: none;
+		}
+	}
+	float: none;
+	margin-bottom: 20px;
+	padding-bottom: 10px;
+	width: 100%;
+}

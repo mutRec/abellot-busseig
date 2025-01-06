@@ -1,0 +1,164 @@
+/*
+ * @package themecentury
+ * @subpackage hamroclass
+ * @since 1.0.0
+ */
+/*==================================================================================
+------------------------------- Color Related Variables ---------------------------
+===================================================================================*/
+/*==================================================================================
+------------------------------- Font Family Variables ---------------------------
+===================================================================================*/
+/*==================================================================================
+----------------------------- Media Query Related Variables ------------------------
+===================================================================================*/
+/*==================================================================================
+------------------------------- End Declearing Variables ---------------------------
+===================================================================================*/
+div.sikshya-account-sidebar {
+  padding: 0; }
+  div.sikshya-account-sidebar ul li {
+    margin: 0;
+    padding: 0; }
+    div.sikshya-account-sidebar ul li a {
+      width: 100%;
+      color: #000;
+      display: block;
+      padding: 5px 10px;
+      letter-spacing: 1px;
+      border: 1px solid #dedede; }
+    div.sikshya-account-sidebar ul li.active, div.sikshya-account-sidebar ul li:hover {
+      background: transparent; }
+      div.sikshya-account-sidebar ul li.active a, div.sikshya-account-sidebar ul li:hover a {
+        background: #0f233a;
+        border-color: #0f233a; }
+
+ul.sikshya-account-nav-list {
+  margin: 0;
+  padding: 0; }
+
+.sikshya-account-page .sik-col-md-3 {
+  width: 30%; }
+
+.sikshya-account-page .sik-col-md-9 {
+  width: 70%; }
+
+.sikshya-account-content-area {
+  padding: 15px;
+  word-break: break-all; }
+  .sikshya-account-content-area > h2 {
+    font-style: normal;
+    text-align: center; }
+
+.single_add_to_cart_button,
+a.sikshya-button,
+.sikshya-button,
+a.sikshya-btn,
+.sikshya-btn {
+  border-radius: 0px;
+  border-color: #0f233a;
+  background-color: #0f233a; }
+  .single_add_to_cart_button:hover,
+  a.sikshya-button:hover,
+  .sikshya-button:hover,
+  a.sikshya-btn:hover,
+  .sikshya-btn:hover {
+    color: #0f233a;
+    background-color: #fff; }
+
+.sikshya-shortcode-wrapper .form-group {
+  margin-bottom: 10px; }
+
+.sikshya-course-loop-level {
+  background: #0f233a; }
+
+.sikshya-course-loop-title > h2, .sikshya-course-loop-title h4 {
+  font-size: 20px;
+  font-style: normal;
+  text-transform: none; }
+
+.sikshya-loop-course-container {
+  padding: 15px; }
+
+.sik-instructor .avatar {
+  width: 100px;
+  float: left;
+  border: none; }
+
+.sik-instructor .sik-center-block {
+  border-radius: 100%; }
+
+.sik-instructor .details {
+  width: 80%;
+  float: left;
+  padding-left: 15px;
+  width: -moz-calc( 100% - 100px);
+  width: calc( 100% - 100px); }
+
+.sik-instructor:after {
+  content: "";
+  clear: both;
+  display: block; }
+
+.sikshya-course-tabs .course-nav.active a:after, .sikshya-course-tabs .course-nav:hover a:after {
+  background: #0f233a; }
+
+.top-image-block h1 {
+  margin: 0;
+  line-height: 1.4em;
+  text-transform: uppercase; }
+
+.course-tab-panel-curriculum ul.sikshya-lesson-list li > a.item-link {
+  padding: 0 15px; }
+
+.course-tab-panel-curriculum li a.item-link .item-meta .item-count {
+  color: #fff;
+  background: #0f233a; }
+
+.sikshya-sections-in-single-lesson .sikshya-single-lesson-items a {
+  display: block;
+  position: relative;
+  padding: 10px 100px 10px 10px; }
+
+.sikshya-sections-in-single-lesson .sikshya-single-lesson-items .sikshya-lesson-right-icons {
+  top: 0;
+  right: 0;
+  height: 50px;
+  min-width: 50px;
+  padding-right: 10px;
+  position: absolute;
+  text-align: right; }
+  .sikshya-sections-in-single-lesson .sikshya-single-lesson-items .sikshya-lesson-right-icons .sikshya-content-locked {
+    height: auto;
+    width: auto;
+    display: inline;
+    line-height: 50px; }
+
+.sikshya-tabs-btn-group {
+  border-bottom: 1px solid #0f233a; }
+  .sikshya-tabs-btn-group a.active {
+    padding-left: 20px;
+    text-align: left;
+    font-size: 25px;
+    text-transform: uppercase; }
+
+.sikshya-sidebar-tabs-wrap {
+  border-color: #0f233a; }
+
+.sikshya-lesson-sidebar-hide-bar {
+  background-color: rgba(0, 0, 0, 0.4); }
+  .sikshya-lesson-sidebar-hide-bar:hover, .sikshya-lesson-sidebar-hide-bar:active {
+    color: #0f233a; }
+
+.sikshya-single-page-top-bar {
+  background-color: #0f233a; }
+
+.sikshya-single-page-top-bar a {
+  line-height: 1.4em; }
+
+.sikshya-single-lesson-wrap {
+  background: #fafafa; }
+
+.sikshya-sections-in-single-lesson .sikshya-sections-title button {
+  right: 10px;
+  padding: 0px; }

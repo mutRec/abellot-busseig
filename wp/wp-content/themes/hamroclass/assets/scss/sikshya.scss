@@ -1,0 +1,229 @@
+/*
+ * @package themecentury
+ * @subpackage hamroclass
+ * @since 1.0.0
+ */
+@import "core/variables";
+div.sikshya-account-sidebar{
+	padding:0;
+	ul{
+		li{
+			margin:0;
+			padding:0;
+			a{
+				width:100%;
+				color: #000;
+				display:block;
+				padding: 5px 10px;
+				letter-spacing: 1px;
+				border: 1px solid #dedede;
+			}
+			&.active, &:hover{
+				background:transparent;
+				a{
+					background:$primary_color;
+					border-color:$primary_color;
+				}
+			}
+		}
+	}
+}
+ul.sikshya-account-nav-list{
+	margin:0;
+	padding:0;
+}
+
+.sikshya-account-page{
+	.sik-col-md-3{
+		width:30%;
+	}
+	.sik-col-md-9{
+		width:70%;
+	}
+}
+
+.sikshya-account-content-area{
+	padding:15px;
+	word-break: break-all;
+	&>h2{
+		font-style:normal;
+		text-align:center;
+	}
+}
+
+.single_add_to_cart_button, 
+a.sikshya-button, 
+.sikshya-button, 
+a.sikshya-btn, 
+.sikshya-btn{
+	border-radius:0px;
+	border-color:$primary_color;
+	background-color:$primary_color;
+	&:hover{
+		color:$primary_color;
+		background-color:$white_color;
+	}
+}
+
+.sikshya-shortcode-wrapper{
+	.form-group{
+		margin-bottom:10px;		
+	}
+}
+
+.sikshya-course-loop-level{
+	background:$primary_color;
+}
+.sikshya-course-loop-title{
+	&>h2, h4{
+		font-size:20px;
+		font-style:normal;
+		text-transform:none;
+	}
+}
+.sikshya-loop-course-container{
+	padding:15px;
+}
+
+.sik-instructor{
+	.avatar{
+		width:100px;
+		float:left;
+		border:none;
+	}
+	.sik-center-block{
+		border-radius:100%;
+	}
+	.details{
+		width:80%;
+		float:left;
+		padding-left:15px;
+		width:calc( 100% - 100px );
+		
+	}
+	&:after{
+		content:"";
+		clear:both;
+		display:block;
+	}
+}
+
+.sikshya-course-tabs{
+	.course-nav{
+		&.active, &:hover{
+			a{
+				&:after{
+					background:$primary_color;
+				}
+			}
+		}
+	}
+}
+
+.top-image-block{
+	h1{
+		margin:0;
+		line-height:1.4em;
+		text-transform:uppercase;
+	}
+}
+
+
+
+.course-tab-panel-curriculum{
+	ul{
+		&.sikshya-lesson-list{
+			li{
+				& > a{
+					&.item-link{
+						padding:0 15px;
+					}
+				}
+			}
+		}	
+	}
+
+	li{
+		a.item-link{
+			.item-meta{
+				.item-count{
+					color:#fff;
+					background:$primary_color;
+				}
+			}
+		}
+	}
+
+}
+
+
+.sikshya-sections-in-single-lesson{
+	.sikshya-single-lesson-items{
+		a{
+			display:block;
+			position:relative;
+			padding:10px 100px 10px 10px;
+			span{
+
+			}
+		}
+		.sikshya-lesson-right-icons{
+			top:0;
+			right:0;
+			height:50px;
+			min-width:50px;
+			padding-right:10px;
+			position:absolute;
+			text-align:right;
+			.sikshya-content-locked{
+				height:auto;
+				width:auto;
+				display:inline;
+				line-height:50px;
+			}
+		}
+	}
+}
+
+.sikshya-tabs-btn-group{
+	border-bottom:1px solid $primary_color;
+	a.active{
+		padding-left:20px;
+		text-align:left;
+		font-size:25px;
+		text-transform:uppercase;
+	}
+}
+
+.sikshya-sidebar-tabs-wrap{
+	border-color:$primary_color;
+}
+
+.sikshya-lesson-sidebar-hide-bar{
+	background-color:rgba(0,0,0,0.4);
+	&:hover, &:active{
+		color:$primary_color;
+	}
+}
+.sikshya-single-page-top-bar{
+	background-color:$primary_color;
+}
+
+.sikshya-single-page-top-bar{
+	a{
+		line-height:1.4em;
+	}
+}
+
+.sikshya-single-lesson-wrap{
+	background:#fafafa;
+}
+
+.sikshya-sections-in-single-lesson{
+	.sikshya-sections-title{
+		button{
+			right:10px;
+			padding:0px;
+		}
+	}
+}

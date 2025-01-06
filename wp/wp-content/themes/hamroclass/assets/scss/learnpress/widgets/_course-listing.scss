@@ -1,0 +1,226 @@
+/*
+ * @package themecentury
+ * @subpackage hamroclass
+ * @since 1.0.0
+ */
+
+	.widget-layout2 {
+		.course-section{
+			.section-sub_title{
+				text-align:center;
+			}
+		}
+	}
+	.course-section{
+		padding:50px 0;
+
+			@media (max-width: 1200px){
+				padding: 30px 15px;
+			}
+	}
+	ul.learn-press-courses{
+		.course{
+			.hamroclass-course-content{
+				padding:0 10px;
+				padding-bottom:1px;
+				border-left:1px solid #f1f1f1;
+				.course-info{
+					.course-price{
+						display:none;
+					}
+					.course-instructor{
+						float:none ;
+					}
+				}
+				.lp-course-buttons{
+					display:none;
+				}
+			}
+
+
+
+
+			.course-thumbnail{
+				position:relative;
+				overflow:hidden;
+			}
+			.lp-course-buttons{
+				position:absolute;
+				bottom:-100%;
+				left:0;
+				right:0;
+				transition:all 0.3s ease-in-out;
+
+				form{
+					margin-bottom:0;
+				}
+			}
+			button.lp-button{
+				border-radius:0;
+				transition:all 0.3s ease-in-out;
+				border-color:transparent;
+
+				&:hover{
+					background-color:$secondary_color;
+					color:$white_color;
+				}
+			}
+
+			&:hover{
+				.lp-course-buttons{
+					bottom:0;
+				}
+			}
+
+			.course-price{
+				display: inline-block;
+			    position: absolute;
+			    right: 5px;
+			    top: 5px;
+			    background-color:$secondary_color;
+			    color:$white_color;
+			    padding:3px 5px;
+			    font-size:12px;
+			    text-transform:uppercase;
+			}
+
+		}
+
+	}
+	
+
+/*learnpress csss override*/
+body .course-curriculum {
+    ul.curriculum-sections {
+        .section-content {
+            .course-item
+            .course-item-meta {
+            	.duration{
+                	background:$primary_color;
+            	}
+        	}
+        }
+    }
+}
+#course-item-content-header{
+    background:$primary_color;
+    .course-item-search{
+        form{
+            background:$white-color;
+            position:relative;
+            overflow:hidden;
+            padding:0 0 0 10px;
+            border-radius: 10px;
+        }
+    }
+    .toggle-content-item{
+        border-left:0;
+        color:$white-color;
+    }
+
+    .form-button.lp-button-back button{
+        background-color:$white-color;
+        color:$primary_color;
+        border-radius: 20px;
+    }
+    
+}
+
+ul.learn-press-courses.course-layout2{
+	.course {
+		.course-inner{
+			background-color:#fff;
+			box-shadow: 0px 0px 15px 0px rgba(162, 154, 154, 0.13);
+		}
+		.course-price{
+			right: auto;
+			left:0;
+			top: 20px;
+			background-color: #ed9532;
+			color: #fff;
+			padding:7px 10px;
+			font-size: 14px;
+		}
+		.course-thumbnail{
+			margin:0;
+		}
+		.lp-course-buttons {
+			bottom:auto;
+			top:30%;
+			text-align:center;
+			opacity:0;
+			visibility:hidden;
+			transition:all 0.3s ease-in-out;
+			form{
+				width:auto;
+				button{
+					width:auto;
+				}
+			}
+		}
+		&:hover {
+			.lp-course-buttons{
+				top:50%;
+				transform:translateY(-50%);
+				opacity:1;
+				visibility:visible;
+			}
+		}
+		.icon{
+			width:50px;
+			height:50px;
+			line-height:1;
+			text-align:center;
+			font-size:16px;
+			position:relative;
+			margin:-25px auto 0;
+			background-color: #0f233a;
+			border-radius:50%;
+			border:3px solid #fff;
+			color:#fff;
+			i{
+				line-height:50px;
+			}
+		}
+		.hamroclass-course-content{
+			padding:20px;
+			text-align:center;
+		}
+	}
+	.hour-credit{
+		padding:10px 0;
+		display:flex;
+		align-items:center;
+		flex-wrap:wrap;
+		border-top:1px solid #f1f1f1;
+		position: relative;
+		& > div{
+			width:50%;
+			padding:0 10px;
+			& > span{
+				font-weight: 600;
+				color:#000;
+				margin-right:5px;
+			}
+		}
+		&:before, &:after{
+			content:'';
+			position: absolute;
+			left:50%;
+		}
+		&:before{
+			width:50px;
+			height: 2px;
+			background-color: #ed9532;
+			top:-2px;
+			transform: translateX(-50%);
+		} 
+		&:after{
+			top:50%;
+			height: 20px;
+			width:1px;
+			background-color: #f1f1f1;
+			transform: translate(-50% ,-50%);
+		}
+	}
+} 

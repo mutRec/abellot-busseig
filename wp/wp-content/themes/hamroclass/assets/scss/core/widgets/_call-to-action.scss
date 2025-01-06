@@ -1,0 +1,152 @@
+/*
+ * @package themecentury
+ * @subpackage hamroclass
+ * @since 1.0.0
+ */
+ 
+.hmc-cta-wrapper {
+	.hmc-cta-content {
+		z-index: 0;
+		min-height: 200px;
+		position: relative;
+		padding: 100px 0;
+		text-align: center;
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+		background-color: $active_color;
+		&.parallax {
+			background-attachment: fixed;
+			background-position: center;
+			background-repeat: no-repeat;
+			background-size: cover;
+		}
+		.hmc-container{
+			@media (max-width: 1200px){
+				padding-left:15px;
+				padding-right:15px;
+			}
+		}
+		.section-title{
+			-webkit-box-pack:center;
+	    	-ms-flex-pack:center;
+	        justify-content:center;
+	        font-weight:500;
+	        text-transform:uppercase;
+
+		}
+		.hmc-cta-heading, .section-title, p {
+			color: #fff;
+		}
+		.button {
+			margin: 10px;
+			font-size: 14px;
+		    padding: 8px 30px;
+		    position: relative;
+		    text-align: center;
+		    letter-spacing: 1px;
+		    border-radius: 25px;
+		    color: $white_color;
+		    display: inline-block;
+		    text-transform: uppercase;
+			border: 1px solid $white_color;
+			float:none;
+
+			&:hover {
+				background: $white_color;
+				color:$primary_color;
+			}
+		}
+
+		&:before {
+			background: #000;
+			content: "";
+			height: 100%;
+			position: absolute;
+			width: 100%;
+			top: 0;
+			left: 0;
+			z-index: -1;
+			display: block;
+			opacity: 0.3;
+		}
+		&.no-overlay{
+			&:before{
+				display:none;
+			}
+		}
+
+	}
+}
+.cta-section{
+	padding:30px 0;
+
+	@media (max-width: 768px){
+		padding-left:15px;
+		padding-right:15px;
+	}
+
+	background-color:$secondary_color;
+	.section-wrap{
+		display:flex;
+		flex-wrap: wrap;
+		align-items:center;
+	}
+
+	.section-title{
+		text-transform:none;
+
+		a{
+			color:#fff;
+		}
+	}
+
+	.subtitle-wrap{
+		width:25%;
+		text-align:center;
+	}
+	.button-wrap{
+		width:200px;
+		text-align:center;
+		padding-left:15px;
+
+		a{
+			font-size: 14px;
+		    padding: 8px 30px;
+		    position: relative;
+		    text-align: center;
+		    letter-spacing: 1px;
+		    border-radius: 25px;
+		    color: $white_color;
+		    display: inline-block;
+		    text-transform: uppercase;
+			border: 1px solid $white_color;
+			float:none;
+
+			&:hover {
+				background: $white_color;
+				color:$primary_color;
+			}
+		}
+	}
+	.title-desc-wrap{
+		width:-webkit-calc(75% - 200px);
+		width:calc(75% - 200px);
+		padding-left:20px;
+		border-left:1px solid $white_color;
+	}
+	.section-sub_title, .section-title , .title-desc-wrap p{
+		color:#fff;
+		margin:0;
+	}
+}
+.widget-layout2 .cta-section .section-title{
+	-webkit-box-pack:start;
+    -ms-flex-pack:start;
+    justify-content:flex-start;
+    margin-bottom:10px;
+    padding-bottom:0;
+}
+.widget-layout2.hamroclass_call_to_action_widget{
+	
+}

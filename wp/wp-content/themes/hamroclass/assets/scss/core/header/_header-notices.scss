@@ -1,0 +1,132 @@
+/*
+ * @package themecentury
+ * @subpackage hamroclass
+ * @since 1.0.0
+ */
+.hmc-notice-wrapper {
+  background:$primary_color;
+  min-height:35px;
+
+  .hmc-container{
+    .hmc-notice-block {
+
+        .notice-caption {
+          text-transform:uppercase;
+          &:after {
+            width: 0;
+            height: 0;
+            border-style: solid;
+            border-width: 5px 0 5px 7px;
+            border-color: transparent transparent transparent $secondary_color;
+            content: "";
+            left:100%;
+            position: absolute;
+            top: 50%;
+            transform:translateY(-50%);
+            -webkit-transform:translateY(-50%);
+          }
+          &:before{
+            content: "\f0a1";
+            font-family: fontAwesome;
+            padding-right:7px;
+          }
+
+          @media (max-width:768px){
+              display:none;
+          }
+      }
+      @media (max-width:768px){
+        padding-left:0;
+      }
+
+    }
+    .news-notice-title {
+        white-space: nowrap;
+    }
+
+  }
+}
+
+.hmc-notice-block {
+    margin: 0;
+    position: relative;
+    padding-left: 100px;
+
+    .notice-caption{
+      position:absolute;
+      left:0;
+      top:0;
+    }
+
+  .lSAction {
+    position: absolute;
+    right: 0px;
+    top: 5px;
+    > a {
+      background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+      display: inline-block;
+      height: auto;
+      margin: 0 5px !important;
+      position: static;
+      width: auto;
+      opacity: 1;
+    }
+  }
+  .lSSlideOuter.vertical {
+    position: static;
+  }
+  .lSSlideWrapper {
+    position: static;
+    .lSFade {
+      position: static;
+    }
+  }
+}
+
+.notice-caption {
+  background:$secondary_color;
+  color: $white_color;
+  display: block;
+  float: left;
+  margin-right: 20px;
+  padding: 5px 15px;
+  text-transform:uppercase;
+}
+
+.notice-content-wrapper {
+  display: block;
+    float: left;
+    padding-left: 30px;
+    padding-right: 80px;
+    
+    .post-cats-list {
+      float: left;
+      margin-right: 15px;
+    }
+  .lslide.active {
+    height: auto !important;
+  }
+  .cS-hidden {
+    opacity: 1;
+  }
+  .lSAction a{
+    color: #fff;
+    width: 25px;
+    height: 25px;
+    background-color: rgba(0,0,0,0.05);
+    text-align: center;
+    line-height: 25px;
+    font-size: 10px;
+  }
+}
+
+.news-notice-title{
+  >a{
+    
+    display: block;
+    margin: 5px 0 0;
+    font-weight:400;
+    color:#fff;
+    letter-spacing:1px;
+  }
+}

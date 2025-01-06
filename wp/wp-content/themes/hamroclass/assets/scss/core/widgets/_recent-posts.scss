@@ -1,0 +1,27 @@
+/*
+ * @package themecentury
+ * @subpackage hamroclass
+ * @since 1.0.0
+ */
+.hamroclass_recent_posts_widget {
+	.hmc-recent-posts-wrapper {
+		ul {
+			list-style: none;
+			margin: 0;
+			padding: 0;
+		}
+		.hmc-single-post {
+			margin-bottom: 10px;
+			padding-bottom: 10px;
+		}
+		.hmc-post-thumb {
+			float: left;
+			width: 30%;
+		}
+		.hmc-post-content {
+			float: left;
+			margin-left: 4%;
+			width: 66%;
+		}
+	}
+}
