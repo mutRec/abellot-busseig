@@ -1,2 +1,2 @@
-<H1>Web Wordpress Contenidoritzat per el blog personal de Busseig!</H1>
-![image](https://github.com/user-attachments/assets/7e26cb8b-b0db-4fff-942a-283ada48f51a)
+<H1>Sóc Balena</H1>
+![image](https://github.com/user-attachments/assets/b53b3248-677c-4836-a77f-b1704fdebf83)
